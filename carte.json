@@ -1,0 +1,18 @@
+{
+    "Beers": [
+        {
+            "price": 2.00,
+            "name": "Jupiler",
+            "desc": "Une bière simple"
+        },
+        {
+            "price": 4.00,
+            "name": "Barbare",
+            "desc": "Une bière au miel"
+        },{
+            "price": 4.50,
+            "name": "Kasteel rouge",
+            "desc": "Une bière fruitée"
+        }
+    ]
+}
