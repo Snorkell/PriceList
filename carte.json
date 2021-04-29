@@ -1,31 +1,46 @@
 {
     "FileInfo": "BeverageListForLaLorgnette",
     "Data": [{
+            "CategoryTitle": "Casse-Dal'",
+            "CategoryDesc": "Hot-Dogs, Croq'Monsieur, Suggestions ",
+            "CategoryContent": [{
+                    "name": "Hot-Dog",
+                    "price": "2,50€",
+                    "description": "Hot-Dogs, pain, moutarde, ketchup, cornichons, oignons."
+                },
+                {
+                    "name": "Croq'Monsieur",
+                    "price": "3.50€",
+                    "description": "Pain de mie, jambon et emmental."
+                }
+            ]
+        },
+        {
             "CategoryTitle": "Flambées",
             "CategoryDesc": "Nos Spécialités, vous ne trouverez ça nulle part ailleurs",
             "CategoryContent": [{
                     "name": "Bush Flambée",
-                    "price": "12,00€",
+                    "price": "15,00€",
                     "description": "Cocktail à la bière servi en 75cl à partager."
                 },
                 {
                     "name": "Leffe Flambée",
-                    "price": "12,00€",
+                    "price": "15,00€",
                     "description": "Cocktail à la bière servi en 75cl à partager."
                 },
                 {
                     "name": "Délirium Flambée",
-                    "price": "12,00€",
+                    "price": "15,00€",
                     "description": "Une toute nouvelle Flambée se rajoute à la Liste."
                 },
                 {
                     "name": "Pêch'Mel Bush Flambée",
-                    "price": "12,00€",
+                    "price": "15,00€",
                     "description": "Cocktail à la bière servi en 75cl à partager."
                 },
                 {
                     "name": "Cidre Flambée",
-                    "price": "12,00€",
+                    "price": "15,00€",
                     "description": "Cocktail à la bière servi en 75cl à partager."
                 }
             ]
