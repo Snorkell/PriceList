@@ -766,36 +766,26 @@
             "CategoryDesc": "",
             "CategoryContent": [{
                     "name": "Jupiler 25cl",
-                    "price": "2,00€",
+                    "price": "2,20€",
                     "description": ""
                 },
                 {
                     "name": "Jupiler 33cl",
-                    "price": "2,60€",
+                    "price": "2,90€",
                     "description": ""
                 },
                 {
                     "name": "Jupiler 50cl",
-                    "price": "4,00€",
+                    "price": "4,40€",
                     "description": ""
                 },
                 {
                     "name": "Bush 25cl",
-                    "price": "4,00€",
+                    "price": "4,50€",
                     "description": ""
                 },
                 {
                     "name": "Bush 33cl",
-                    "price": "5,00€",
-                    "description": ""
-                },
-                {
-                    "name": "Leffe",
-                    "price": "4,00€",
-                    "description": ""
-                },
-                {
-                    "name": "Leffe 50cl",
                     "price": "6,00€",
                     "description": ""
                 },
@@ -811,6 +801,11 @@
                 },
                 {
                     "name": "Kasteel Rouge",
+                    "price": "4,50€",
+                    "description": ""
+                },
+                {
+                    "name": "Hapkin",
                     "price": "4,50€",
                     "description": ""
                 }
