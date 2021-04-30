@@ -46,16 +46,6 @@
             ]
         },
         {
-            "CategoryTitle": "Test",
-            "CategoryDesc": "Testing the test",
-            "CategoryContent": [{
-                    "name": "Test",
-                    "price": "3500,00€",
-                    "description": "Too expensive isn't it."
-                }
-            ]
-        },
-        {
             "CategoryTitle": "Hydromel de \"La Chaudasse\"",
             "CategoryDesc": "Carte mise à jour régulièrement. 1€ en shooter de 2cl 5€ au verre de 12cl",
             "CategoryContent": [{
