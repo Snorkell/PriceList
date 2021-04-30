@@ -49,7 +49,7 @@
             "CategoryTitle": "Test",
             "CategoryDesc": "Testing the test",
             "CategoryContent": [{
-                    "name": "Test
+                    "name": "Test",
                     "price": "3500,00€",
                     "description": "Too expensive isn't it."
                 }
