@@ -180,22 +180,22 @@
             "CategoryDesc": "Le thème? Harry Potter bien-sûr",
             "CategoryContent": [{
                     "name": "Elixir de Longue Vie",
-                    "price": "6,50€",
+                    "price": "7,00€",
                     "description": "Cuarenta y tres (43), Amaretto, Jus Orange. Retrouvez-le au litre à 25€."
                 },
                 {
                     "name": "Polynectar",
-                    "price": "6,50€",
+                    "price": "7,00€",
                     "description": "Cécémel, Bailey's, Triple-Sec."
                 },
                 {
                     "name": "Felix Felicis",
-                    "price": "6,50€",
+                    "price": "7,00€",
                     "description": "Rhum, Vodka, Gin, Sprite. Retrouvez-le au litre à 25€."
                 },
                 {
                     "name": "Serum de Vérité",
-                    "price": "6,50€",
+                    "price": "7,00€",
                     "description": "Pequet, Vin blanc, Sirop de citron."
                 }
             ]
@@ -694,11 +694,6 @@
                     "description": ""
                 },
                 {
-                    "name": "Milk-Shake Vodka Rouge & Fraise",
-                    "price": "9,00€",
-                    "description": ""
-                },
-                {
                     "name": "Milk-Shake Rhum & Vanille",
                     "price": "9,00€",
                     "description": ""
@@ -706,7 +701,7 @@
             ]
         },
         {
-            "CategoryTitle": "À Grignoter",
+            "CategoryTitle": "À Grignoter (Non Disponible)",
             "CategoryDesc": "",
             "CategoryContent": [{
                     "name": "Assiette Mixte",
@@ -816,7 +811,7 @@
             "CategoryDesc": "",
             "CategoryContent": [{
                     "name": "Barbar",
-                    "price": "4,00€",
+                    "price": "4,50€",
                     "description": ""
                 },
                 {
@@ -831,7 +826,7 @@
                 },
                 {
                     "name": "Cornet",
-                    "price": "4,00€",
+                    "price": "4,50€",
                     "description": ""
                 },
                 {
@@ -850,11 +845,6 @@
                     "description": ""
                 },
                 {
-                    "name": "Saison Sichuan",
-                    "price": "5,50€",
-                    "description": ""
-                },
-                {
                     "name": "Grisette Blanche",
                     "price": "3,00€",
                     "description": ""
@@ -865,8 +855,8 @@
                     "description": ""
                 },
                 {
-                    "name": "Jupiler 0,0%",
-                    "price": "2,00€",
+                    "name": "Stella 0,0%",
+                    "price": "2,20€",
                     "description": ""
                 },
                 {
@@ -881,17 +871,17 @@
                 },
                 {
                     "name": "Rasta Troll",
-                    "price": "5,50€",
+                    "price": "5,00€",
                     "description": ""
                 },
                 {
                     "name": "St-Feuillien Blonde",
-                    "price": "4,00€",
+                    "price": "4,50€",
                     "description": ""
                 },
                 {
                     "name": "St-Feuillien Grand Cru",
-                    "price": "4,00€",
+                    "price": "4,50€",
                     "description": ""
                 },
                 {
@@ -966,12 +956,12 @@
             "CategoryDesc": "",
             "CategoryContent": [{
                     "name": "Chimay Bleue",
-                    "price": "4,00€",
+                    "price": "4,50€",
                     "description": ""
                 },
                 {
                     "name": "Chimay Blanche",
-                    "price": "4,00€",
+                    "price": "4,50€",
                     "description": ""
                 },
                 {
@@ -981,7 +971,7 @@
                 },
                 {
                     "name": "Orval",
-                    "price": "4,00€",
+                    "price": "4,50€",
                     "description": "Suivant Disponibilité."
                 },
                 {
@@ -991,22 +981,22 @@
                 },
                 {
                     "name": "Trappe Quadruple",
-                    "price": "4,00€",
+                    "price": "4,50€",
                     "description": "La Trappiste des Pays-Bas."
                 },
                 {
                     "name": "Westmalle Triple",
-                    "price": "4,00€",
+                    "price": "4,50€",
                     "description": ""
                 }
             ]
         },
         {
-            "CategoryTitle": "Bières en 75cl",
+            "CategoryTitle": "Bières en 37,5cl",
             "CategoryDesc": "",
             "CategoryContent": [{
-                "name": "Bush de Nuit",
-                "price": "░,░€",
+                "name": "Bon Voeux",
+                "price": "5,50€",
                 "description": ""
             }]
         },
