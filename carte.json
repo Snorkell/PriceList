@@ -988,7 +988,8 @@
                 "name": "Bon Voeux",
                 "price": "5,50€",
                 "description": ""
-            }]
+                 }
+            ]
         },
         {
             "CategoryTitle": "Boissons chaudes",
