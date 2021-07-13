@@ -24,11 +24,6 @@
                     "description": "Cocktail à la bière servi en 75cl à partager."
                 },
                 {
-                    "name": "Leffe Flambée",
-                    "price": "14,00€",
-                    "description": "Cocktail à la bière servi en 75cl à partager."
-                },
-                {
                     "name": "Corona Flambée",
                     "price": "13,00€",
                     "description": "Une toute nouvelle Flambée se rajoute à la Liste."
@@ -94,16 +89,6 @@
                     "description": "Pequet violette, Sprite."
                 },
                 {
-                    "name": "Tintin & Milou",
-                    "price": "4,00€",
-                    "description": "Pequet Tatin, Tonic."
-                },
-                {
-                    "name": "Batman & Robin",
-                    "price": "4,00€",
-                    "description": "Pequet agrume, Ice-Tea."
-                },
-                {
                     "name": "Minus & Cortex",
                     "price": "4,00€",
                     "description": "Pequet Cuberdon, Sprite."
@@ -120,17 +105,17 @@
             "CategoryDesc": "",
             "CategoryContent": [{
                     "name": "Pêch'Mel Original (25cl)",
-                    "price": "3,30€",
+                    "price": "3,90€",
                     "description": "Mi Bush mi Pêcheresse en 25cl précisez bien l'originale, nous avons également la commerciale en bouteille."
                 },
                 {
                     "name": "Pêch'Mel Original (50CL)",
-                    "price": "6,60€",
+                    "price": "7,80€",
                     "description": "Mi Bush mi Pêcheresse en 50cl précisez bien l'originale, nous avons également la commerciale en bouteille."
                 },
                 {
                     "name": "Cosaque",
-                    "price": "5,00€",
+                    "price": "5,50€",
                     "description": "Bière, Picon, Grenadine."
                 },
                 {
@@ -171,7 +156,7 @@
                 {
                     "name": "One",
                     "price": "7,50€",
-                    "description": "Vin blanc, Citron, Blanche Rosée."
+                    "description": "Vin blanc, Citron, Kriek."
                 }
             ]
         },
@@ -292,7 +277,7 @@
         },
         {
             "CategoryTitle": "Jerichan (Cocktails au litre)",
-            "CategoryDesc": "Nos cocktails les plus prisés, mais en version un litre ",
+            "CategoryDesc": "Nos cocktails les plus prisés, mais en version 1 litre ",
             "CategoryContent": [{
                     "name": "Felix Felicis (au litre)",
                     "price": "25,00€",
@@ -482,6 +467,11 @@
                     "price": "6,00€",
                     "description": ""
                 },
+                                {
+                    "name": "Bombay Bramble",
+                    "price": "6,00€",
+                    "description": ""
+                },
                 {
                     "name": "Bulldog",
                     "price": "6,00€",
@@ -515,12 +505,12 @@
                 {
                     "name": "Pequet",
                     "price": "1,50€",
-                    "description": "Fraise, Cuberdon, Violette, Pomme, Kiwi, Tatin, Agrume."
+                    "description": "Fraise, Cuberdon, Violette, Pomme."
                 },
                 {
                     "name": "Hydromel de \"La Chaudasse\"",
                     "price": "1,00€",
-                    "description": "2cl demandez les goûts au bar"
+                    "description": "2cl Voir Catégorie Hydromel"
                 }
             ]
         },
@@ -580,7 +570,7 @@
                 },
                 {
                     "name": "Chaudfontaine Plate",
-                    "price": "1,80€",
+                    "price": "2,00€",
                     "description": ""
                 },
                 {
@@ -689,8 +679,8 @@
                     "description": ""
                 },
                 {
-                    "name": "Milk-Shake Jack Daniel's & Miel",
-                    "price": "9,00€",
+                    "name": "Milk-Shake Kasteel Rouge",
+                    "price": "7,50€",
                     "description": ""
                 },
                 {
@@ -871,7 +861,7 @@
                 },
                 {
                     "name": "Rasta Troll",
-                    "price": "5,00€",
+                    "price": "5,50€",
                     "description": ""
                 },
                 {
@@ -902,11 +892,6 @@
                 {
                     "name": "Lupulus Hopera",
                     "price": "4,50€",
-                    "description": ""
-                },
-                {
-                    "name": "Corbeau",
-                    "price": "5,00€",
                     "description": ""
                 },
                 {
@@ -944,11 +929,6 @@
                     "price": "4,00€",
                     "description": ""
                 },
-                {
-                    "name": "Strongbow Appel Rosé",
-                    "price": "4,00€",
-                    "description": ""
-                }
             ]
         },
         {
