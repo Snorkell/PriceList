@@ -830,6 +830,11 @@
                     "description": ""
                 },
                 {
+                    "name": "Harmony",
+                    "price": "4,50€",
+                    "description": ""
+                },
+                {
                     "name": "Moinette 1/3",
                     "price": "4,50€",
                     "description": ""
@@ -895,6 +900,11 @@
                     "description": ""
                 },
                 {
+                    "name": "Goose I.P.A.",
+                    "price": "5,00€",
+                    "description": ""
+                },  
+                {
                     "name": "Chouffe",
                     "price": "4,50€",
                     "description": ""
@@ -907,6 +917,21 @@
                 {
                     "name": "Saison Voisin",
                     "price": "4,50€",
+                    "description": ""
+                },
+                {
+                    "name": "Duvel 6,66",
+                    "price": "4,50€",
+                    "description": ""
+                },
+                {
+                    "name": "Victoria",
+                    "price": "4,50€",
+                    "description": ""
+                },
+                {
+                    "name": "St-Feuillien Five",
+                    "price": "5,00€",
                     "description": ""
                 },
                 {
@@ -963,11 +988,6 @@
                     "name": "Orval 5 ans",
                     "price": "6,50€",
                     "description": "Suivant Disponibilité. À Température de cave."
-                },
-                {
-                    "name": "Rochefort 8°",
-                    "price": "5,00€",
-                    "description": ""
                 },
                 {
                     "name": "Trappe Quadruple",
