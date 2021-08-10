@@ -51,7 +51,7 @@
                 {
                     "name": "Hypocras",
                     "price": "5,00€",
-                    "description": ""
+                    "description": "Vin épicé."
                 },
                 {
                     "name": "Hydromel Cerise",
@@ -67,6 +67,11 @@
                     "name": "Hydromel Mmmmh",
                     "price": "5,00€",
                     "description": "Au miel de Châtaignier."
+                },
+                {
+                    "name": "Hydromel La Gâterie",
+                    "price": "5,00€",
+                    "description": "Caramel et Rhum."
                 },
                 {
                     "name": "Le Doigt",
@@ -805,6 +810,11 @@
                     "description": ""
                 },
                 {
+                    "name": "Barbar Brune",
+                    "price": "4,50€",
+                    "description": ""
+                },
+                {
                     "name": "Cuvée des Trolls",
                     "price": "3,00€",
                     "description": ""
@@ -911,7 +921,7 @@
                 },
                 {
                     "name": "Ragnarök",
-                    "price": "4,50€",
+                    "price": "5,00€",
                     "description": ""
                 },
                 {
@@ -935,8 +945,13 @@
                     "description": ""
                 },
                 {
-                    "name": "Super des Fagnes 'Cuvée Constant' ",
+                    "name": "Bel'Chic",
                     "price": "5,00€",
+                    "description": ""
+                },
+                {
+                    "name": "Super des Fagnes 'Cuvée Constant' ",
+                    "price": "5,50€",
                     "description": ""
                 }
             ]
