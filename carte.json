@@ -24,7 +24,7 @@
                     "description": "Cocktail à la bière servi en 75cl à partager."
                 },
                 {
-                    "name": "Corona Flambée",
+                    "name": "Delirium Flambée",
                     "price": "13,00€",
                     "description": "Une toute nouvelle Flambée se rajoute à la Liste."
                 },
@@ -37,6 +37,36 @@
                     "name": "Cidre Flambée",
                     "price": "14,00€",
                     "description": "Cocktail à la bière servi en 75cl à partager."
+                }
+            ]
+        },
+        {
+            "CategoryTitle": "Carte d'Hiver",
+            "CategoryDesc": "La Carte d'Hiver est arrivée, de quoi vous réchauffer le corp et le coeur",
+            "CategoryContent": [{
+                    "name": "Thé",
+                    "price": "3,00€",
+                    "description": "Thé Blanc à la rose, Thé vert aux 4 agrumes, Thé Blanc Fleur d'Oranger, Thé Vert Bio-Fraise-Rhubarbe, Thé Noir-Rose-Fruit des Bois, Infusion Rooibos-Cannelle-Orange, Thé Noir-Anis étoilé-Cannelle-Orange, Infusion Rooibos-Ananas-Grenade-Cranberry-Papaye-Baie de Goji. "
+                },
+                {
+                    "name": "Infusion à l'érable",
+                    "price": "3,00€",
+                    "description": "Une douceur du Canada"
+                },
+                {
+                    "name": "Chocolat Chaud Maison",
+                    "price": "3,00€",
+                    "description": ""
+                }
+                {
+                    "name": "Bush Chaude",
+                    "price": "6,00€",
+                    "description": "Aromatisée à la canelle"
+                },
+                {
+                    "name": "Hydromel Chaud",
+                    "price": "6,00€",
+                    "description": "Hydromel de La Chaudasse poire."
                 }
             ]
         },
@@ -69,11 +99,6 @@
                     "description": "Au miel de Châtaignier."
                 },
                 {
-                    "name": "Hydromel La Gâterie",
-                    "price": "5,00€",
-                    "description": "Caramel et Rhum."
-                },
-                {
                     "name": "Le Doigt",
                     "price": "5,00€",
                     "description": "Hydromel Amande."
@@ -98,11 +123,6 @@
                     "price": "4,00€",
                     "description": "Pequet Cuberdon, Sprite."
                 },
-                {
-                    "name": "Black & Mortimer",
-                    "price": "4,00€",
-                    "description": "Pequet fraise, Sprite."
-                }
             ]
         },
         {
@@ -126,12 +146,12 @@
                 {
                     "name": "Bohemian Rhapsody",
                     "price": "7,50€",
-                    "description": "Vodka, Whisky, Leffe."
+                    "description": "Vodka, Whisky, Hapkin."
                 },
                 {
                     "name": "Hotel California",
                     "price": "7,50€",
-                    "description": "Rhum, pomme, bière."
+                    "description": "Rhum, Pomme, Bière."
                 },
                 {
                     "name": "My Immortal",
@@ -186,7 +206,7 @@
                 {
                     "name": "Serum de Vérité",
                     "price": "7,00€",
-                    "description": "Pequet, Vin blanc, Sirop de citron."
+                    "description": "Hydromel Cerise, Vin blanc, Sirop de citron."
                 }
             ]
         },
@@ -246,7 +266,7 @@
                 {
                     "name": "Hydromel Chaud",
                     "price": "6,00€",
-                    "description": ""
+                    "description": "Hydromel Et Poiregnac"
                 }
             ]
         },
@@ -913,11 +933,6 @@
                     "name": "Vedett I.P.A.",
                     "price": "4,50€",
                     "description": ""
-                },
-                {
-                    "name": "Goose I.P.A.",
-                    "price": "5,00€",
-                    "description": ""
                 },  
                 {
                     "name": "Chouffe",
@@ -941,7 +956,7 @@
                 },
                 {
                     "name": "Belgian Coast I.P.A.",
-                    "price": "3,00€",
+                    "price": "4,50€",
                     "description": ""
                 },
                 {
@@ -961,6 +976,11 @@
                 },
                 {
                     "name": "Super des Fagnes 'Cuvée Constant' ",
+                    "price": "5,50€",
+                    "description": ""
+                }
+                {
+                    "name": "Super des Fagnes 'Blood Orange' ",
                     "price": "5,50€",
                     "description": ""
                 }
@@ -1067,7 +1087,7 @@
                 {
                     "name": "Thé",
                     "price": "3,00€",
-                    "description": "Professeur Moriarty : Pu-erh, citron, orange, mandarine, pamplemousse, bergamote L'Aventurière : Thé Vert, Yuzu, Mandarine, Miel Lady Adler : Pu-erh, citron, orange, mandarine, pamplemousse, bergamote E-Veuh : Thé Vert, Thé Blanc, Jasmin, Bouton de Rose Mauve, Pétale de Rose Floston Paradise : Thé Wulong, Baies de Goji, Myrtille, Fraise, Pomme"
+                    "description": "Infusion à l'érable, Thé Blanc à la rose, Thé vert aux 4 agrumes, Thé Blanc Fleur d'Oranger, Thé Vert Bio-Fraise-Rhubarbe, Thé Noir-Rose-Fruit des Bois, Infusion Rooibos-Cannelle-Orange, Thé Noir-Anis étoilé-Cannelle-Orange, Infusion Rooibos-Ananas-Grenade-Cranberry-Papaye-Baie de Goji. "
                 }
             ]
         }
