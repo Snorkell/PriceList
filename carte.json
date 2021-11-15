@@ -122,7 +122,7 @@
                     "name": "Minus & Cortex",
                     "price": "4,00€",
                     "description": "Pequet Cuberdon, Sprite."
-                },
+                }
             ]
         },
         {
@@ -739,7 +739,6 @@
                 }
             ]
         },
-
         {
             "CategoryTitle": "Vins",
             "CategoryDesc": "Découvrez notre sélection de vins français",
