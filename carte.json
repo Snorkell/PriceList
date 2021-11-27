@@ -60,7 +60,7 @@
                 },
                 {
                     "name": "Bush Chaude",
-                    "price": "6,00€",
+                    "price": "5,50€",
                     "description": "Aromatisée à la canelle"
                 },
                 {
@@ -265,7 +265,7 @@
                 },
                 {
                     "name": "Hydromel Chaud",
-                    "price": "6,00€",
+                    "price": "5,50€",
                     "description": "Hydromel Et Poiregnac"
                 }
             ]
@@ -285,7 +285,7 @@
                 },
                 {
                     "name": "Virgin Cuba Libre",
-                    "price": "4,00€",
+                    "price": "5,00€",
                     "description": "Sirop de Rhum, Citron vert, Coca-Cola."
                 },
                 {
@@ -604,12 +604,12 @@
                 },
                 {
                     "name": "Fanta Orange",
-                    "price": "2,20€",
+                    "price": "2,00€",
                     "description": ""
                 },
                 {
                     "name": "Sprite",
-                    "price": "2,20€",
+                    "price": "2,00€",
                     "description": ""
                 },
                 {
@@ -629,57 +629,52 @@
                 },
                 {
                     "name": "Looza A.C.E.",
-                    "price": "2,30€",
+                    "price": "",
                     "description": ""
                 },
                 {
                     "name": "Looza Ananas",
-                    "price": "2,30€",
+                    "price": "",
                     "description": ""
                 },
                 {
                     "name": "Looza Fraise",
-                    "price": "2,30€",
+                    "price": "",
                     "description": ""
                 },
                 {
                     "name": "Looza Melon Delight",
-                    "price": "2,30€",
+                    "price": "",
                     "description": ""
                 },
                 {
                     "name": "Looza Orange",
-                    "price": "2,30€",
+                    "price": "2,00€",
                     "description": ""
                 },
                 {
                     "name": "Looza Pomme",
-                    "price": "2,30€",
+                    "price": "2,00€",
                     "description": ""
                 },
                 {
                     "name": "Looza Pomme-Cerise",
-                    "price": "2,30€",
+                    "price": "2,00€",
                     "description": ""
                 },
                 {
                     "name": "Schweppes Tonic",
-                    "price": "2,50€",
+                    "price": "2,00€",
                     "description": ""
                 },
                 {
                     "name": "Schweppes Agrum'",
-                    "price": "2,50€",
+                    "price": "2,00€",
                     "description": ""
                 },
                 {
                     "name": "Gini",
-                    "price": "2,50€",
-                    "description": ""
-                },
-                {
-                    "name": "Canada Dry",
-                    "price": "2,50€",
+                    "price": "2,00€",
                     "description": ""
                 },
                 {
@@ -883,11 +878,6 @@
                     "description": ""
                 },
                 {
-                    "name": "Stella 0,0%",
-                    "price": "2,20€",
-                    "description": ""
-                },
-                {
                     "name": "Lindeman's Pêcheresse",
                     "price": "3,00€",
                     "description": ""
@@ -899,7 +889,7 @@
                 },
                 {
                     "name": "Rasta Troll",
-                    "price": "5,50€",
+                    "price": "5,00€",
                     "description": ""
                 },
                 {
@@ -924,7 +914,7 @@
                 },
                 {
                     "name": "Lupulus Hopera",
-                    "price": "4,50€",
+                    "price": "",
                     "description": ""
                 },
                 {
@@ -939,7 +929,7 @@
                 },
                 {
                     "name": "Ragnarök",
-                    "price": "5,00€",
+                    "price": "",
                     "description": ""
                 },
                 {
@@ -949,7 +939,7 @@
                 },
                 {
                     "name": "Cherry Chouffe",
-                    "price": "3,00€",
+                    "price": "4,50€",
                     "description": ""
                 },
                 {
@@ -964,7 +954,7 @@
                 },
                 {
                     "name": "St-Feuillien Five",
-                    "price": "5,00€",
+                    "price": "4,00€",
                     "description": ""
                 },
                 {
@@ -974,12 +964,12 @@
                 },
                 {
                     "name": "Super des Fagnes 'Cuvée Constant' ",
-                    "price": "5,50€",
+                    "price": "5,00€",
                     "description": ""
                 },
                 {
                     "name": "Super des Fagnes 'Blood Orange' ",
-                    "price": "5,50€",
+                    "price": "5,00€",
                     "description": ""
                 }
             ]
@@ -1031,11 +1021,6 @@
                     "name": "Orval 5 ans",
                     "price": "6,50€",
                     "description": "Suivant Disponibilité. À Température de cave."
-                },
-                {
-                    "name": "Trappe Quadruple",
-                    "price": "4,50€",
-                    "description": "La Trappiste des Pays-Bas."
                 },
                 {
                     "name": "Westmalle Triple",
