@@ -54,14 +54,24 @@
             "CategoryTitle": "Les Incontournables de La Lorgnette",
             "CategoryDesc": "Tout ce qu'il ne faut pas rater condensé en une catégorie",
             "CategoryContent": [{
-                    "name": "Thé Glaçé Maison",
+                    "name": "Thé Glacé Maison",
                     "price": "3,00€",
                     "description": "Véritable Délice, sans Alcool. "
+                },
+                {
+                    "name": "Thé Glacé Maison + Hydromel",
+                    "price": "5,00€",
+                    "description": "Quand 2 produits Délicieux se rencontrent..."
                 },
                 {
                     "name": "Milk-Shake",
                     "price": "4,00€",
                     "description": "Les meilleurs de la région: Kinder Bueno, Speculoos, Kasteel Rouge ou Bièraubeurre (Caramel Beurre salé, Cidre ou Bush, épices)"
+                },
+                {
+                    "name": "Milk-Shake Kasteel Rouge",
+                    "price": "7,50€",
+                    "description": "Intrigé? Laisse-toi tenter"
                 },
                 {
                     "name": "Chocolat Chaud Maison",
