@@ -75,13 +75,18 @@
                 },
                 {
                     "name": "Hydromel",
-                    "price": "5,00€/Verre 1,00€/Shoot",
+                    "price": "5,00€ 1,00€/Shoot",
                     "description": "Poire, Pomme-Cannelle, Amande, Cerise, Nature, Nature au Miel de Chataîgner, Mandarine"
                 },
                 {
                     "name": "Le Coup de Grisou",
                     "price": "7,50€ ou 8,00€",
                     "description": "Première 'Flambée' individuelle, tu as le choix entre 2 Bières: La Cuvée des Trolls ou la Kets."
+                },
+                {
+                    "name": "Shanky's Whip",
+                    "price": "5,00€",
+                    "description": "Liqueur à base de Whiskey, Un délice proposant des notes de caramel, de beurre frais, de crème fraiche , de vanille."
                 }
             ]
         },
