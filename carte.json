@@ -17,7 +17,7 @@
         },
         {
             "CategoryTitle": "Flambées",
-            "CategoryDesc": "Nos Spécialités, vous ne trouverez ça nulle part ailleurs",
+            "CategoryDesc": "Nos Spécialités, que vous ne trouverez nulle part ailleurs",
             "CategoryContent": [{
                     "name": "Bush Flambée",
                     "price": "14,00€",
@@ -25,7 +25,7 @@
                 },
                 {
                     "name": "Delirium Flambée",
-                    "price": "13,00€",
+                    "price": "14,00€",
                     "description": "Une toute nouvelle Flambée se rajoute à la Liste."
                 },
                 {
@@ -38,35 +38,50 @@
                     "price": "14,00€",
                     "description": "Cocktail à la bière servi en 75cl à partager."
                 }
+                {
+                    "name": "Le Coup de Grisou 'Troll' ",
+                    "price": "7,50€",
+                    "description": "Première 'Flambée' individuelle, tu as le choix entre 2 Bières."
+                },
+                {
+                    "name": "Le Coup de Grisou 'Kets' ",
+                    "price": "8,00€",
+                    "description": "Première 'Flambée' individuelle, tu as le choix entre 2 Bières."
+                }
             ]
         },
         {
-            "CategoryTitle": "Carte d'Hiver",
-            "CategoryDesc": "La Carte d'Hiver est arrivée, de quoi vous réchauffer le corp et le coeur",
+            "CategoryTitle": "Les Incontournables de La Lorgnette",
+            "CategoryDesc": "Tout ce qu'il ne faut pas rater condensé en une catégorie",
             "CategoryContent": [{
-                    "name": "Thé",
+                    "name": "Thé Glaçé Maison",
                     "price": "3,00€",
-                    "description": "Thé Blanc à la rose, Thé vert aux 4 agrumes, Thé Blanc Fleur d'Oranger, Thé Vert Bio-Fraise-Rhubarbe, Thé Noir-Rose-Fruit des Bois, Infusion Rooibos-Cannelle-Orange, Thé Noir-Anis étoilé-Cannelle-Orange, Infusion Rooibos-Ananas-Grenade-Cranberry-Papaye-Baie de Goji. "
+                    "description": "Véritable Délice, sans Alcool. "
                 },
                 {
-                    "name": "Infusion à l'érable",
-                    "price": "3,00€",
-                    "description": "Une douceur du Canada"
+                    "name": "Milk-Shake",
+                    "price": "4,00€",
+                    "description": "Les meilleurs de la région: Kinder Bueno, Speculoos, Kasteel Rouge ou Bièraubeurre (Caramel Beurre salé, Cidre ou Bush, épices)"
                 },
                 {
                     "name": "Chocolat Chaud Maison",
                     "price": "3,00€",
-                    "description": ""
-                },
-                {
-                    "name": "Bush Chaude",
-                    "price": "5,50€",
-                    "description": "Aromatisée à la canelle"
+                    "description": "100% HomeMade"
                 },
                 {
                     "name": "Hydromel Chaud",
                     "price": "6,00€",
                     "description": "Hydromel de La Chaudasse poire."
+                },
+                {
+                    "name": "Hydromel",
+                    "price": "5,00€/Verre 1,00€/Shoot",
+                    "description": "Poire, Pomme-Cannelle, Amande, Cerise, Nature, Nature au Miel de Chataîgner, Mandarine"
+                },
+                {
+                    "name": "Le Coup de Grisou",
+                    "price": "7,50€ ou 8,00€",
+                    "description": "Première 'Flambée' individuelle, tu as le choix entre 2 Bières: La Cuvée des Trolls ou la Kets."
                 }
             ]
         },
@@ -99,7 +114,7 @@
                     "description": "Au miel de Châtaignier."
                 },
                 {
-                    "name": "Le Doigt",
+                    "name": "Hydromel Mandarine",
                     "price": "5,00€",
                     "description": "Hydromel Amande."
                 }
@@ -139,16 +154,6 @@
                     "description": "Mi Bush mi Pêcheresse en 50cl précisez bien l'originale, nous avons également la commerciale en bouteille."
                 },
                 {
-                    "name": "Cosaque",
-                    "price": "5,50€",
-                    "description": "Bière, Picon, Grenadine."
-                },
-                {
-                    "name": "Bohemian Rhapsody",
-                    "price": "7,50€",
-                    "description": "Vodka, Whisky, Hapkin."
-                },
-                {
                     "name": "Hotel California",
                     "price": "7,50€",
                     "description": "Rhum, Pomme, Bière."
@@ -157,11 +162,6 @@
                     "name": "My Immortal",
                     "price": "7,50€",
                     "description": "Tequila, Triple-Sec, Rhum, Bière."
-                },
-                {
-                    "name": "Sweet Dreams",
-                    "price": "7,50€",
-                    "description": "Curaçao, Triple-Sec, Bière."
                 },
                 {
                     "name": "Bièrejito",
@@ -174,15 +174,15 @@
                     "description": "Café, Bière, Triple-Sec. Sans Triple-Sec à 5€."
                 },
                 {
-                    "name": "I Can Fly",
-                    "price": "7,50€",
-                    "description": "Menthe, Triple-Sec, Bière."
-                },
-                {
                     "name": "One",
                     "price": "7,50€",
                     "description": "Vin blanc, Citron, Kriek."
-                }
+                },
+                {
+                    "name": "untitled",
+                    "price": "7,50€",
+                    "description": "Gin, jus de Citron, Violette, Kriek."
+                }    
             ]
         },
         {
@@ -404,11 +404,6 @@
                     "description": ""
                 },
                 {
-                    "name": "Mandarine Napoléon",
-                    "price": "5,00€",
-                    "description": ""
-                },
-                {
                     "name": "Cuarenta y tres (43)",
                     "price": "5,00€",
                     "description": ""
@@ -422,11 +417,17 @@
                 "name": "Plantation",
                 "price": "8,00€",
                 "description": ""
-            }]
+               },
+               {
+                    "name": "Kraken",
+                    "price": "5,00€",
+                    "description": ""
+                }
+            ]
         },
         {
             "CategoryTitle": "Whisky, Whiskey, Scotch",
-            "CategoryDesc": "Nous sommes amateurs de Wiskhy et vous",
+            "CategoryDesc": "Nous sommes amateurs de Wiskhy et vous?",
             "CategoryContent": [{
                     "name": "William Lawson's",
                     "price": "5,00€",
@@ -530,7 +531,7 @@
                 {
                     "name": "Pequet",
                     "price": "1,50€",
-                    "description": "Fraise, Cuberdon, Violette, Pomme."
+                    "description": "Cuberdon, Violette, Pomme."
                 },
                 {
                     "name": "Hydromel de \"La Chaudasse\"",
@@ -540,50 +541,10 @@
             ]
         },
         {
-            "CategoryTitle": "Cocktails en shooter",
-            "CategoryDesc": "Découvrez nos shooters création",
-            "CategoryContent": [{
-                    "name": "Astronaute",
-                    "price": "3,00€",
-                    "description": "2cl Vodka, Sucre, Café."
-                },
-                {
-                    "name": "Headshot",
-                    "price": "6,00€",
-                    "description": "Citron vert, Whiskey, Tequila, Tabasco."
-                },
-                {
-                    "name": "Harrrgh",
-                    "price": "6,00€",
-                    "description": "Kahlua, Bailey's, Whiskey."
-                },
-                {
-                    "name": "Cérébro",
-                    "price": "6,00€",
-                    "description": "Vodka, Bailey's, Menthe."
-                },
-                {
-                    "name": "Hémorragie",
-                    "price": "6,00€",
-                    "description": "Cuarenta y tres (43), Vodka rouge."
-                },
-                {
-                    "name": "Paranormal",
-                    "price": "6,00€",
-                    "description": "Citron vert, Vodka, Curaçao."
-                }
-            ]
-        },
-        {
             "CategoryTitle": "Softs",
             "CategoryDesc": "",
             "CategoryContent": [{
                     "name": "Coca-Cola",
-                    "price": "2,20€",
-                    "description": ""
-                },
-                {
-                    "name": "Coca-Cola Light",
                     "price": "2,20€",
                     "description": ""
                 },
@@ -604,12 +565,12 @@
                 },
                 {
                     "name": "Fanta Orange",
-                    "price": "2,00€",
+                    "price": "2,20€",
                     "description": ""
                 },
                 {
                     "name": "Sprite",
-                    "price": "2,00€",
+                    "price": "2,20€",
                     "description": ""
                 },
                 {
@@ -634,7 +595,7 @@
                 },
                 {
                     "name": "Looza Ananas",
-                    "price": "",
+                    "price": "2,30€",
                     "description": ""
                 },
                 {
@@ -649,17 +610,17 @@
                 },
                 {
                     "name": "Looza Orange",
-                    "price": "2,00€",
+                    "price": "2,30€",
                     "description": ""
                 },
                 {
                     "name": "Looza Pomme",
-                    "price": "2,00€",
+                    "price": "2,30€",
                     "description": ""
                 },
                 {
                     "name": "Looza Pomme-Cerise",
-                    "price": "2,00€",
+                    "price": "2,30€",
                     "description": ""
                 },
                 {
@@ -669,11 +630,6 @@
                 },
                 {
                     "name": "Schweppes Agrum'",
-                    "price": "2,00€",
-                    "description": ""
-                },
-                {
-                    "name": "Gini",
                     "price": "2,00€",
                     "description": ""
                 },
@@ -703,9 +659,9 @@
                     "description": ""
                 },
                 {
-                    "name": "Milk-Shake Rhum & Vanille",
-                    "price": "9,00€",
-                    "description": ""
+                    "name": "BièrauBeurre",
+                    "price": "7,00€ ou 8,00€",
+                    "description": "Au choix entre Strongbow (7,00€) et Bush (8,00€)"
                 }
             ]
         },
@@ -753,11 +709,6 @@
                     "description": "Syrah, Sud de la France."
                 },
                 {
-                    "name": "Cava Musa",
-                    "price": "5,00€",
-                    "description": "15cl"
-                },
-                {
                     "name": "Cava Musa Bouteille",
                     "price": "25,00€",
                     "description": "75cl"
@@ -793,22 +744,12 @@
                     "description": ""
                 },
                 {
-                    "name": "Karmeliet 20cl",
-                    "price": "2,70€",
-                    "description": ""
-                },
-                {
-                    "name": "Karmeliet 33cl",
+                    "name": "Pêche Mel Bush",
                     "price": "4,50€",
                     "description": ""
                 },
                 {
                     "name": "Kasteel Rouge",
-                    "price": "4,50€",
-                    "description": ""
-                },
-                {
-                    "name": "Hapkin",
                     "price": "4,50€",
                     "description": ""
                 }
@@ -883,11 +824,6 @@
                     "description": ""
                 },
                 {
-                    "name": "Pêch'Mel Bush",
-                    "price": "4,50€",
-                    "description": "Possible d'avoir la recette Original à 3,30€ (Merci de le précisé)"
-                },
-                {
                     "name": "Rasta Troll",
                     "price": "5,00€",
                     "description": ""
@@ -908,11 +844,6 @@
                     "description": ""
                 },
                 {
-                    "name": "Tête de Mort",
-                    "price": "5,00€",
-                    "description": ""
-                },
-                {
                     "name": "Lupulus Hopera",
                     "price": "",
                     "description": ""
@@ -929,16 +860,11 @@
                 },
                 {
                     "name": "Ragnarök",
-                    "price": "",
+                    "price": "5,00€",
                     "description": ""
                 },
                 {
                     "name": "Duvel 6,66",
-                    "price": "4,50€",
-                    "description": ""
-                },
-                {
-                    "name": "Cherry Chouffe",
                     "price": "4,50€",
                     "description": ""
                 },
@@ -953,9 +879,9 @@
                     "description": ""
                 },
                 {
-                    "name": "St-Feuillien Five",
+                    "name": "Kets",
                     "price": "4,00€",
-                    "description": ""
+                    "description": "Bière Montoise, avec un petit côté blanche sur la fin qui donne fraicheur et fruit. "
                 },
                 {
                     "name": "Bel'Chic",
@@ -970,6 +896,21 @@
                 {
                     "name": "Super des Fagnes 'Blood Orange' ",
                     "price": "5,00€",
+                    "description": ""
+                },
+                {
+                    "name": "Wild'Jo ",
+                    "price": "4,50€",
+                    "description": ""
+                },
+                {
+                    "name": "Triple d'Anvers",
+                    "price": "4,50€",
+                    "description": ""
+                },
+                {
+                    "name": "Karmeliet",
+                    "price": "4,50€",
                     "description": ""
                 }
             ]
@@ -1018,7 +959,7 @@
                     "description": "Suivant Disponibilité. À Température de cave."
                 },
                 {
-                    "name": "Orval 5 ans",
+                    "name": "Orval 6 ans",
                     "price": "6,50€",
                     "description": "Suivant Disponibilité. À Température de cave."
                 },
@@ -1027,16 +968,6 @@
                     "price": "4,50€",
                     "description": ""
                 }
-            ]
-        },
-        {
-            "CategoryTitle": "Bières en 37,5cl",
-            "CategoryDesc": "",
-            "CategoryContent": [{
-                "name": "Bon Voeux",
-                "price": "5,50€",
-                "description": ""
-                 }
             ]
         },
         {
@@ -1070,7 +1001,12 @@
                 {
                     "name": "Thé",
                     "price": "3,00€",
-                    "description": "Infusion à l'érable, Thé Blanc à la rose, Thé vert aux 4 agrumes, Thé Blanc Fleur d'Oranger, Thé Vert Bio-Fraise-Rhubarbe, Thé Noir-Rose-Fruit des Bois, Infusion Rooibos-Cannelle-Orange, Thé Noir-Anis étoilé-Cannelle-Orange, Infusion Rooibos-Ananas-Grenade-Cranberry-Papaye-Baie de Goji. "
+                    "description": "Infusion à l'érable, Thé Blanc à la rose, Thé vert aux 4 agrumes, Thé Blanc Fleur d'Oranger, Thé Vert Bio-Fraise-Rhubarbe, Thé Noir-Rose-Fruit des Bois, Infusion Rooibos-Cannelle-Orange. "
+                },
+                {
+                    "name": "Hydromel Chaud",
+                    "price": "6,00€",
+                    "description": "Hydromel de La Chaudasse poire."
                 }
             ]
         }
