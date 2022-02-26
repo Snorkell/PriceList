@@ -37,7 +37,7 @@
                     "name": "Cidre Flambée",
                     "price": "14,00€",
                     "description": "Cocktail à la bière servi en 75cl à partager."
-                }
+                },
                 {
                     "name": "Le Coup de Grisou 'Troll' ",
                     "price": "7,50€",
@@ -265,7 +265,7 @@
                 },
                 {
                     "name": "Hydromel Chaud",
-                    "price": "5,50€",
+                    "price": "6,00€",
                     "description": "Hydromel Et Poiregnac"
                 }
             ]
