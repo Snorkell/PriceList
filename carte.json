@@ -3,1025 +3,1230 @@
     "Data": [{
             "CategoryTitle": "Casse-Dal'",
             "CategoryDesc": "Hot-Dogs, Croq'Monsieur, Suggestions ",
+        "display": true,
             "CategoryContent": [{
                     "name": "Hot-Dog",
                     "price": "2,50€",
-                    "description": "Hot-Dogs, pain, moutarde, ketchup, cornichons, oignons."
+                    "description": "Hot-Dogs, pain, moutarde, ketchup, cornichons, oignons.",
+                "display": true
                 },
                 {
                     "name": "Croq'Monsieur",
                     "price": "3.50€",
                     "description": "Pain de mie, jambon et emmental."
-                }
+   ,
+                "display":  true}
             ]
         },
         {
             "CategoryTitle": "Flambées",
             "CategoryDesc": "Nos Spécialités, que vous ne trouverez nulle part ailleurs",
-            "CategoryContent": [{
+
+            "display":true,"CategoryContent": [{
                     "name": "Bush Flambée",
                     "price": "14,00€",
-                    "description": "Cocktail à la bière servi en 75cl à partager."
+                    "description": "Cocktail à la bière servi en 75cl à partager.",
+            "display":  true
                 },
                 {
                     "name": "Delirium Flambée",
                     "price": "14,00€",
                     "description": "Une toute nouvelle Flambée se rajoute à la Liste."
-                },
+       ,
+                "display":  true},
                 {
                     "name": "Pêch'Mel Bush Flambée",
                     "price": "14,00€",
-                    "description": "Cocktail à la bière servi en 75cl à partager."
+                    "description": "Cocktail à la bière servi en 75cl à partager.",
+                    "display":  true
                 },
                 {
                     "name": "Cidre Flambée",
                     "price": "14,00€",
-                    "description": "Cocktail à la bière servi en 75cl à partager."
+                    "description": "Cocktail à la bière servi en 75cl à partager.",
+                    "display":  true
                 },
                 {
                     "name": "Le Coup de Grisou 'Troll' ",
                     "price": "7,50€",
-                    "description": "Première 'Flambée' individuelle, tu as le choix entre 2 Bières."
+                    "description": "Première 'Flambée' individuelle, tu as le choix entre 2 Bières.",
+                    "display":  true
                 },
                 {
                     "name": "Le Coup de Grisou 'Kets' ",
                     "price": "8,00€",
-                    "description": "Première 'Flambée' individuelle, tu as le choix entre 2 Bières."
+                    "description": "Première 'Flambée' individuelle, tu as le choix entre 2 Bières.",
+                    "display":  true
                 }
             ]
         },
         {
             "CategoryTitle": "Les Incontournables de La Lorgnette",
             "CategoryDesc": "Tout ce qu'il ne faut pas rater condensé en une catégorie",
+            "display": true,
             "CategoryContent": [{
                     "name": "Thé Glacé Maison",
                     "price": "3,00€",
-                    "description": "Véritable Délice, sans Alcool. "
+                    "description": "Véritable Délice, sans Alcool. ",
+                "display":  true
                 },
                 {
                     "name": "Thé Glacé Maison + Hydromel",
                     "price": "5,00€",
                     "description": "Quand 2 produits Délicieux se rencontrent..."
-                },
+   ,
+                "display":  true},
                 {
                     "name": "Milk-Shake",
                     "price": "4,00€",
-                    "description": "Les meilleurs de la région: Kinder Bueno, Speculoos, Kasteel Rouge ou Bièraubeurre (Caramel Beurre salé, Cidre ou Bush, épices)"
+                    "description": "Les meilleurs de la région: Kinder Bueno, Speculoos, Kasteel Rouge ou Bièraubeurre (Caramel Beurre salé, Cidre ou Bush, épices)",
+                    "display":  true
                 },
                 {
                     "name": "Milk-Shake Kasteel Rouge",
                     "price": "7,50€",
-                    "description": "Intrigé? Laisse-toi tenter"
+                    "description": "Intrigé? Laisse-toi tenter",
+                    "display":  true
                 },
                 {
                     "name": "Chocolat Chaud Maison",
                     "price": "3,00€",
-                    "description": "100% HomeMade"
+                    "description": "100% HomeMade",
+                    "display":  true
                 },
                 {
                     "name": "Hydromel Chaud",
                     "price": "6,00€",
-                    "description": "Hydromel de La Chaudasse poire."
+                    "description": "Hydromel de La Chaudasse poire.",
+                    "display":  true
                 },
                 {
                     "name": "Hydromel",
                     "price": "5,00€ 1€/Shoot",
-                    "description": "Poire, Pomme-Cannelle, Amande, Cerise, Nature, Nature au Miel de Chataîgner, Mandarine"
+                    "description": "Poire, Pomme-Cannelle, Amande, Cerise, Nature, Nature au Miel de Chataîgner, Mandarine",
+                    "display":  true
                 },
                 {
                     "name": "Le Coup de Grisou",
                     "price": "7,50€ ou 8,00€",
-                    "description": "Première 'Flambée' individuelle, tu as le choix entre 2 Bières: La Cuvée des Trolls ou la Kets."
+                    "description": "Première 'Flambée' individuelle, tu as le choix entre 2 Bières: La Cuvée des Trolls ou la Kets.",
+                    "display":  true
                 },
                 {
                     "name": "Shanky's Whip",
                     "price": "5,00€",
-                    "description": "Liqueur à base de Whiskey, Un délice proposant des notes de caramel, de beurre frais, de crème fraiche , de vanille."
+                    "description": "Liqueur à base de Whiskey, Un délice proposant des notes de caramel, de beurre frais, de crème fraiche , de vanille.",
+                    "display":  true
                 }
             ]
         },
         {
             "CategoryTitle": "Hydromel de \"La Chaudasse\"",
             "CategoryDesc": "Carte mise à jour régulièrement. 1€ en shooter de 2cl 5€ au verre de 12cl",
+            "display": true,
             "CategoryContent": [{
                     "name": "Hydromel Original",
                     "price": "5,00€",
-                    "description": "Disponible en shoot (2cl) 1€."
+                    "description": "Disponible en shoot (2cl) 1€.",
+                "display":  true
                 },
                 {
                     "name": "Hypocras",
                     "price": "5,00€",
                     "description": "Vin épicé."
-                },
+   ,
+                "display":  true},
                 {
                     "name": "Hydromel Cerise",
                     "price": "5,00€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Hydromel Pomme Cannelle",
                     "price": "5,00€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Hydromel Mmmmh",
                     "price": "5,00€",
-                    "description": "Au miel de Châtaignier."
+                    "description": "Au miel de Châtaignier.",
+                    "display":  true
                 },
                 {
                     "name": "Hydromel Mandarine",
                     "price": "5,00€",
-                    "description": "Hydromel Amande."
+                    "description": "Hydromel Amande.",
+                    "display":  true
                 }
             ]
         },
         {
             "CategoryTitle": "Les Duos (Pequet'n'mix)",
             "CategoryDesc": "Une autre de nos marques de fabrique, le Pequet + un soft, un pur délice ! Nous avons fait une sélection pour vous. N'hésitez pas à créer les vôtres",
+            "display": true,
             "CategoryContent": [{
                     "name": "Tic & Tac",
                     "price": "4,00€",
-                    "description": "Pequet pomme, Ice-Tea."
+                    "description": "Pequet pomme, Ice-Tea.",
+                "display":  true
                 },
                 {
                     "name": "Laurel & Hardy",
                     "price": "4,00€",
                     "description": "Pequet violette, Sprite."
-                },
+   ,
+                "display":  true},
                 {
                     "name": "Minus & Cortex",
                     "price": "4,00€",
-                    "description": "Pequet Cuberdon, Sprite."
+                    "description": "Pequet Cuberdon, Sprite.",
+                    "display":  true
                 }
             ]
         },
         {
             "CategoryTitle": "Cocktails de bières",
             "CategoryDesc": "",
+            "display": true,
             "CategoryContent": [{
                     "name": "Pêch'Mel Original (25cl)",
                     "price": "3,90€",
-                    "description": "Mi Bush mi Pêcheresse en 25cl précisez bien l'originale, nous avons également la commerciale en bouteille."
+                    "description": "Mi Bush mi Pêcheresse en 25cl précisez bien l'originale, nous avons également la commerciale en bouteille.",
+                "display":  true
                 },
                 {
                     "name": "Pêch'Mel Original (50CL)",
                     "price": "7,80€",
                     "description": "Mi Bush mi Pêcheresse en 50cl précisez bien l'originale, nous avons également la commerciale en bouteille."
-                },
+   ,
+                "display":  true},
                 {
                     "name": "Hotel California",
                     "price": "7,50€",
-                    "description": "Rhum, Pomme, Bière."
+                    "description": "Rhum, Pomme, Bière.",
+                    "display":  true
                 },
                 {
                     "name": "My Immortal",
                     "price": "7,50€",
-                    "description": "Tequila, Triple-Sec, Rhum, Bière."
+                    "description": "Tequila, Triple-Sec, Rhum, Bière.",
+                    "display":  true
                 },
                 {
                     "name": "Bièrejito",
                     "price": "8,00€",
-                    "description": "Bière, Citron vert, Menthe, Rhum."
+                    "description": "Bière, Citron vert, Menthe, Rhum.",
+                    "display":  true
                 },
                 {
                     "name": "Fear of The Dark",
                     "price": "7,50€",
-                    "description": "Café, Bière, Triple-Sec. Sans Triple-Sec à 5€."
+                    "description": "Café, Bière, Triple-Sec. Sans Triple-Sec à 5€.",
+                    "display":  true
                 },
                 {
                     "name": "One",
                     "price": "7,50€",
-                    "description": "Vin blanc, Citron, Kriek."
+                    "description": "Vin blanc, Citron, Kriek.",
+                    "display":  true
                 },
                 {
                     "name": "Only for the Weak",
                     "price": "7,50€",
-                    "description": "Gin, jus de Citron, Violette, Kriek."
-                }    
+                    "description": "Gin, jus de Citron, Violette, Kriek.",
+                    "display":  true
+                }
             ]
         },
         {
             "CategoryTitle": "Cocktails Création",
             "CategoryDesc": "Le thème? Harry Potter bien-sûr",
+            "display": true,
             "CategoryContent": [{
                     "name": "Elixir de Longue Vie",
                     "price": "7,00€",
-                    "description": "Cuarenta y tres (43), Amaretto, Jus Orange. Retrouvez-le au litre à 25€."
+                    "description": "Cuarenta y tres (43), Amaretto, Jus Orange. Retrouvez-le au litre à 25€.",
+                "display":  true
                 },
                 {
                     "name": "Polynectar",
                     "price": "7,00€",
                     "description": "Cécémel, Bailey's, Triple-Sec."
-                },
+   ,
+                "display":  true},
                 {
                     "name": "Felix Felicis",
                     "price": "7,00€",
-                    "description": "Rhum, Vodka, Gin, Sprite. Retrouvez-le au litre à 25€."
+                    "description": "Rhum, Vodka, Gin, Sprite. Retrouvez-le au litre à 25€.",
+                    "display":  true
                 },
                 {
                     "name": "Serum de Vérité",
                     "price": "7,00€",
-                    "description": "Hydromel Cerise, Vin blanc, Sirop de citron."
+                    "description": "Hydromel Cerise, Vin blanc, Sirop de citron.",
+                    "display":  true
                 }
             ]
         },
         {
             "CategoryTitle": "Cocktails classiques",
             "CategoryDesc": "Mojito, Cuba Libre, Tequila Sunrise ... Redécouvrez les grands classiques ",
+            "display": true,
             "CategoryContent": [{
                     "name": "Mojito",
                     "price": "7,50€",
-                    "description": "Menthe, Citron vert, Rhum, Eau pétillante. Disponible sans alcool à 5,00€."
+                    "description": "Menthe, Citron vert, Rhum, Eau pétillante. Disponible sans alcool à 5,00€.",
+                "display":  true
                 },
                 {
                     "name": "Tequila Sunrise",
                     "price": "7,50€",
                     "description": "Grenadine, Jus d'orange, Tequila."
-                },
+   ,
+                "display":  true},
                 {
                     "name": "Cuba Libre",
                     "price": "7,50€",
-                    "description": "Citron vert, Rhum brun, Coca-Cola. Disponible sans alcool à 4,00€."
+                    "description": "Citron vert, Rhum brun, Coca-Cola. Disponible sans alcool à 4,00€.",
+                    "display":  true
                 },
                 {
                     "name": "Planteur",
                     "price": "7,50€",
-                    "description": "Rhum, Jus d'orange, Jus d'ananas. Disponible sans alcool à 4,00€."
+                    "description": "Rhum, Jus d'orange, Jus d'ananas. Disponible sans alcool à 4,00€.",
+                    "display":  true
                 }
             ]
         },
         {
             "CategoryTitle": "Cocktails de Café",
             "CategoryDesc": "Ici vous retrouverez les Irish et tous leurs dérivés",
+            "display": true,
             "CategoryContent": [{
                     "name": "Irish Coffee",
                     "price": "7,00€",
-                    "description": ""
+                    "description": "",
+                "display":  true
                 },
                 {
                     "name": "Amaretto Coffee",
                     "price": "7,00€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Café Espagnol",
                     "price": "7,00€",
-                    "description": "Café, Triple-Sec, Rhum, Bailey's."
+                    "description": "Café, Triple-Sec, Rhum, Bailey's.",
+                    "display":  true
                 },
                 {
                     "name": "Café Spécial",
                     "price": "7,00€",
-                    "description": "Café, Cuarenta y tres (43), Amaretto."
+                    "description": "Café, Cuarenta y tres (43), Amaretto.",
+                    "display":  true
                 },
                 {
                     "name": "Bailey's Chocolat Chaud",
                     "price": "7,00€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Hydromel Chaud",
                     "price": "6,00€",
-                    "description": "Hydromel Et Poiregnac"
+                    "description": "Hydromel Et Poiregnac",
+                    "display":  true
                 }
             ]
         },
         {
             "CategoryTitle": "Cocktails sans Alcool",
             "CategoryDesc": "",
+            "display": true,
             "CategoryContent": [{
                     "name": "Marango",
                     "price": "4,00€",
-                    "description": "Sprite, Jus d'orange, Framboise."
+                    "description": "Sprite, Jus d'orange, Framboise.",
+                "display":  true
                 },
                 {
                     "name": "Virgin Planteur",
                     "price": "4,00€",
                     "description": "Sirop de Rhum, Jus d'orange, Jus d'ananas."
-                },
+   ,
+                "display":  true},
                 {
                     "name": "Virgin Cuba Libre",
                     "price": "5,00€",
-                    "description": "Sirop de Rhum, Citron vert, Coca-Cola."
+                    "description": "Sirop de Rhum, Citron vert, Coca-Cola.",
+                    "display":  true
                 },
                 {
                     "name": "Mojito sans Alcool",
                     "price": "5,00€",
-                    "description": "Sirop de Rhum, Citron vert, Menthe, Sucre de canne, Eau pétillante."
+                    "description": "Sirop de Rhum, Citron vert, Menthe, Sucre de canne, Eau pétillante.",
+                    "display":  true
                 },
                 {
                     "name": "Blue Apple Soda",
                     "price": "4,00€",
-                    "description": "Sirop de pomme, Sirop de Curaçao, Eau pétillante."
+                    "description": "Sirop de pomme, Sirop de Curaçao, Eau pétillante.",
+                    "display":  true
                 }
             ]
         },
         {
             "CategoryTitle": "Jerichan (Cocktails au litre)",
             "CategoryDesc": "Nos cocktails les plus prisés, mais en version 1 litre ",
+            "display": true,
             "CategoryContent": [{
                     "name": "Felix Felicis (au litre)",
                     "price": "25,00€",
-                    "description": "Rhum, Vodka, Gin, Sprite. Retrouvez-le au verre à 6,50€."
+                    "description": "Rhum, Vodka, Gin, Sprite. Retrouvez-le au verre à 6,50€.",
+                "display":  true
                 },
                 {
                     "name": "Elixir de Longue Vie (au litre)",
                     "price": "25,00€",
                     "description": "Cuarenta y tres (43), Amaretto, Jus d'orange. Retrouvez-le au verre à 6,50€."
-                }
+   ,
+                "display":  true}
             ]
         },
         {
             "CategoryTitle": "Alcools",
             "CategoryDesc": "Une partie de nos alcools les plus traditionnels. Soft : 0,50€ Red-Bull : 1,00€ en Shooter : 3,00€",
+            "display": true,
             "CategoryContent": [{
                     "name": "Eristoff Rouge",
                     "price": "5,00€",
-                    "description": "+ Soft : 0,50€ + Red-Bull : 1,00€."
+                    "description": "+ Soft : 0,50€ + Red-Bull : 1,00€.",
+                "display":  true
                 },
                 {
                     "name": "Eristoff Blanche",
                     "price": "5,00€",
                     "description": "+ Soft : 0,50€ + Red-Bull : 1,00€."
-                },
+   ,
+                "display":  true},
                 {
                     "name": "Bacardi Carta Blanca",
                     "price": "5,00€",
-                    "description": "+ Soft : 0,50€ + Red-Bull : 1,00€."
+                    "description": "+ Soft : 0,50€ + Red-Bull : 1,00€.",
+                    "display":  true
                 },
                 {
                     "name": "Bacardi Carta Ora",
                     "price": "5,00€",
-                    "description": "+ Soft : 0,50€ + Red-Bull : 1,00€."
+                    "description": "+ Soft : 0,50€ + Red-Bull : 1,00€.",
+                    "display":  true
                 },
                 {
                     "name": "Bacardi 'Anejo Cuatro' ",
                     "price": "6,00€",
-                    "description": "+ Soft : 0,50€ + Red-Bull : 1,00€."
+                    "description": "+ Soft : 0,50€ + Red-Bull : 1,00€.",
+                    "display":  true
                 }
             ]
         },
         {
             "CategoryTitle": "Apéritifs",
             "CategoryDesc": "",
+            "display": true,
             "CategoryContent": [{
                     "name": "Get 27",
                     "price": "4,00€",
-                    "description": ""
+                    "description": "",
+                "display":  true
                 },
                 {
                     "name": "Picon Nature",
                     "price": "4,50€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Picon Vin Blanc",
                     "price": "5,00€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Cosaque",
                     "price": "5,50€",
-                    "description": "Picon, Bière, Grenadine."
+                    "description": "Picon, Bière, Grenadine.",
+                    "display":  true
                 }
             ]
         },
         {
             "CategoryTitle": "Digestifs",
             "CategoryDesc": "Idéal après un bon repas.",
+            "display": true,
             "CategoryContent": [{
                     "name": "Amaretto",
                     "price": "5,00€",
-                    "description": ""
+                    "description": "",
+                "display":  true
                 },
                 {
                     "name": "Cognac Prunier",
                     "price": "5,00€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Cognac Prunier VSOP",
                     "price": "8,00€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Calvados du Pays d'Auge",
                     "price": "5,00€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Cointreau",
                     "price": "5,00€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Bailey's",
                     "price": "4,50€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Cuarenta y tres (43)",
                     "price": "5,00€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 }
             ]
         },
         {
             "CategoryTitle": "Rhums",
             "CategoryDesc": "Nos meilleurs Rhums",
+            "display": true,
             "CategoryContent": [{
                 "name": "Plantation",
                 "price": "8,00€",
-                "description": ""
+                "description": "",
+                "display":  true
                },
                {
                     "name": "Kraken",
                     "price": "5,00€",
-                    "description": ""
+                    "description": "",
+                   "display":  true
                 }
             ]
         },
         {
             "CategoryTitle": "Whisky, Whiskey, Scotch",
             "CategoryDesc": "Nous sommes amateurs de Wiskhy et vous?",
+            "display": true,
             "CategoryContent": [{
                     "name": "William Lawson's",
                     "price": "5,00€",
                     "description": ""
-                },
+,
+            "display":  true},
                 {
                     "name": "Jack Daniel's",
                     "price": "5,50€",
                     "description": "Etats-Unis"
-                },
+   ,
+                "display":  true},
                 {
                     "name": "Jack Daniel's Honey",
                     "price": "5,50€",
-                    "description": "Etats-Unis"
+                    "description": "Etats-Unis",
+                    "display":  true
                 },
                 {
                     "name": "Black Bush",
                     "price": "5,50€",
-                    "description": "Irlande"
+                    "description": "Irlande",
+                    "display":  true
                 },
                 {
                     "name": "Oban 14 ans",
                     "price": "10,00€",
-                    "description": "Ecosse"
+                    "description": "Ecosse",
+                    "display":  true
                 },
                 {
                     "name": "Talisker",
                     "price": "8,00€",
-                    "description": "Ecosse"
+                    "description": "Ecosse",
+                    "display":  true
                 },
                 {
                     "name": "Jack Daniel's Singel Barrel",
                     "price": "8,00€",
-                    "description": "Etats-Unis"
+                    "description": "Etats-Unis",
+                    "display":  true
                 },
                 {
                     "name": "Powers",
                     "price": "8,00€",
-                    "description": "Irlande"
+                    "description": "Irlande",
+                    "display":  true
                 },
                 {
                     "name": "Dewar's",
                     "price": "8,00€",
-                    "description": "Irlande"
+                    "description": "Irlande",
+                    "display":  true
                 },
                 {
                     "name": "Cardhu",
                     "price": "8,00€",
-                    "description": "Ecosse"
+                    "description": "Ecosse",
+                    "display":  true
                 }
             ]
         },
         {
             "CategoryTitle": "Gin",
             "CategoryDesc": "Notre sélection de Gin",
+            "display": true,
             "CategoryContent": [{
                     "name": "Bombay Dry",
                     "price": "5,50€",
-                    "description": ""
+                    "description": "",
+                "display":  true
                 },
                 {
                     "name": "Bombay Sapphire",
                     "price": "6,00€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Bombay Bramble",
                     "price": "6,00€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Bulldog",
                     "price": "6,00€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Hendrick's",
                     "price": "9,00€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Doubble You",
                     "price": "9,00€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 }
             ]
         },
         {
             "CategoryTitle": "Alcools en shooter",
             "CategoryDesc": "",
+            "display": true,
             "CategoryContent": [{
                     "name": "Goldstrike",
                     "price": "3,00€",
-                    "description": ""
+                    "description": "",
+                "display":  true
                 },
                 {
                     "name": "Tequila",
                     "price": "3,00€",
                     "description": "Servi avec citron vert et sel."
-                },
+   ,
+                "display":  true},
                 {
                     "name": "Pequet",
                     "price": "1,50€",
-                    "description": "Cuberdon, Violette, Pomme."
+                    "description": "Cuberdon, Violette, Pomme.",
+                    "display":  true
                 },
                 {
                     "name": "Hydromel de \"La Chaudasse\"",
                     "price": "1,00€",
-                    "description": "2cl Voir Catégorie Hydromel"
+                    "description": "2cl Voir Catégorie Hydromel",
+                    "display":  true
                 }
             ]
         },
         {
             "CategoryTitle": "Softs",
             "CategoryDesc": "",
+            "display": true,
             "CategoryContent": [{
                     "name": "Coca-Cola",
                     "price": "2,20€",
-                    "description": ""
+                    "description": "",
+                "display":  true
                 },
                 {
                     "name": "Coca-Cola Zero",
                     "price": "2,20€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Chaudfontaine Plate",
                     "price": "2,00€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Chaudfontaine Pétillante",
                     "price": "2,20€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Fanta Orange",
                     "price": "2,20€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Sprite",
                     "price": "2,20€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Lipton Ice-Tea",
                     "price": "2,30€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Lipton Ice-Tea Pêche",
                     "price": "2,30€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Lipton Ice-Tea Green",
                     "price": "2,30€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Looza A.C.E.",
                     "price": "",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Looza Ananas",
                     "price": "2,30€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Looza Fraise",
                     "price": "",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Looza Melon Delight",
                     "price": "",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Looza Orange",
                     "price": "2,30€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Looza Pomme",
                     "price": "2,30€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Looza Pomme-Cerise",
                     "price": "2,30€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Schweppes Tonic",
                     "price": "2,00€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Schweppes Agrum'",
                     "price": "2,00€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Red-Bull",
                     "price": "4,00€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 }
             ]
         },
         {
             "CategoryTitle": "Milk-shakes",
             "CategoryDesc": "Avec ou sans alcool",
+            "display": true,
             "CategoryContent": [{
                     "name": "Milk-Shake Kinder Bueno",
                     "price": "4,00€",
-                    "description": ""
+                    "description": "",
+                "display":  true
                 },
                 {
                     "name": "Milk-Shake Speculoos",
                     "price": "4,00€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Milk-Shake Kasteel Rouge",
                     "price": "7,50€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "BièrauBeurre",
                     "price": "7,00€ ou 8,00€",
-                    "description": "Au choix entre Strongbow (7,00€) et Bush (8,00€)"
+                    "description": "Au choix entre Strongbow (7,00€) et Bush (8,00€)",
+                    "display":  true
                 }
             ]
         },
         {
             "CategoryTitle": "À Grignoter (Non Disponible)",
             "CategoryDesc": "",
+            "display": true,
             "CategoryContent": [{
                     "name": "Assiette Mixte",
                     "price": "5,00€",
-                    "description": "Fromage, Salami et Tuc's"
+                    "description": "Fromage, Salami et Tuc's",
+                "display":  true
                 },
                 {
                     "name": "Assiette de Fromage",
                     "price": "3,50€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Assiette de Saucisson",
                     "price": "3,50€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Chips",
                     "price": "1,50€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 }
             ]
         },
         {
             "CategoryTitle": "Vins",
             "CategoryDesc": "Découvrez notre sélection de vins français",
+            "display": true,
             "CategoryContent": [{
                     "name": "Vin Rouge",
                     "price": "3,30€",
-                    "description": "Merlot, sud de la France."
+                    "description": "Merlot, sud de la France.",
+                "display":  true
                 },
                 {
                     "name": "Vin Blanc",
                     "price": "3,30€",
                     "description": "Chardonnay, Sud de la France."
-                },
+   ,
+                "display":  true},
                 {
                     "name": "Vin Rosé",
                     "price": "3,30€",
-                    "description": "Syrah, Sud de la France."
+                    "description": "Syrah, Sud de la France.",
+                    "display":  true
                 },
                 {
                     "name": "Cava Musa Bouteille",
                     "price": "25,00€",
-                    "description": "75cl"
+                    "description": "75cl",
+                    "display":  true
                 }
             ]
         },
         {
             "CategoryTitle": "Bières au fût",
             "CategoryDesc": "",
+            "display": true,
             "CategoryContent": [{
                     "name": "Jupiler 25cl",
                     "price": "2,20€",
-                    "description": ""
+                    "description": "",
+                "display":  true
                 },
                 {
                     "name": "Jupiler 33cl",
                     "price": "2,90€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Jupiler 50cl",
                     "price": "4,40€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Bush 25cl",
                     "price": "4,50€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Bush 33cl",
                     "price": "6,00€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Pêche Mel Bush",
                     "price": "4,50€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Kasteel Rouge",
                     "price": "4,50€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 }
             ]
         },
         {
             "CategoryTitle": "Bières bouteilles",
             "CategoryDesc": "",
+            "display": true,
             "CategoryContent": [{
                     "name": "Barbar",
                     "price": "4,00€",
-                    "description": ""
+                    "description": "",
+                "display":  true
                 },
                 {
                     "name": "Barbar Brune",
                     "price": "4,50€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Cuvée des Trolls",
                     "price": "3,00€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Rodenbach",
                     "price": "3,00€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Corne Black",
                     "price": "4,50€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Cornet",
                     "price": "4,50€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Delirium",
                     "price": "4,50€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Duvel",
                     "price": "4,50€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Harmony",
                     "price": "4,50€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Moinette 1/3",
                     "price": "4,50€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Grisette Blanche",
                     "price": "3,00€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Kriek St-Louis",
                     "price": "3,00€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Lindeman's Pêcheresse",
                     "price": "3,00€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Rasta Troll",
                     "price": "5,00€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "St-Feuillien Blonde",
                     "price": "4,50€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "St-Feuillien Grand Cru",
                     "price": "4,50€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Surfine",
                     "price": "4,50€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Lupulus Hopera",
                     "price": "",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Vedett I.P.A.",
                     "price": "4,50€",
-                    "description": ""
-                },  
+                    "description": "",
+                    "display":  true
+                },
                 {
                     "name": "Chouffe",
                     "price": "4,50€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Ragnarök",
                     "price": "5,00€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Duvel 6,66",
                     "price": "4,50€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Belgian Coast I.P.A.",
                     "price": "4,50€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Victoria",
                     "price": "4,50€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Kets",
                     "price": "4,00€",
-                    "description": "Bière Montoise, avec un petit côté blanche sur la fin qui donne fraicheur et fruit. "
+                    "description": "Bière Montoise, avec un petit côté blanche sur la fin qui donne fraicheur et fruit. ",
+                    "display":  true
                 },
                 {
                     "name": "Bel'Chic",
                     "price": "5,00€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Super des Fagnes 'Cuvée Constant' ",
                     "price": "5,00€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Super des Fagnes 'Blood Orange' ",
                     "price": "5,00€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Wild'Jo ",
                     "price": "4,50€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Triple d'Anvers",
                     "price": "4,50€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Karmeliet",
                     "price": "4,50€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 }
             ]
         },
         {
             "CategoryTitle": "Cidre",
             "CategoryDesc": "",
+            "display": true,
             "CategoryContent": [{
                     "name": "Strongbow",
                     "price": "4,00€",
-                    "description": ""
+                    "description": "",
+                "display":  true
                 }
             ]
         },
         {
             "CategoryTitle": "Bières Trappistes",
             "CategoryDesc": "",
+            "display": true,
             "CategoryContent": [{
                     "name": "Chimay Bleue",
                     "price": "4,50€",
-                    "description": ""
+                    "description": "",
+                "display":  true
                 },
                 {
                     "name": "Chimay Blanche",
                     "price": "4,50€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Chimay Dorée",
                     "price": "4,00€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Orval",
                     "price": "4,50€",
-                    "description": "Suivant Disponibilité. À Température de cave."
+                    "description": "Suivant Disponibilité. À Température de cave.",
+                    "display":  true
                 },
                 {
                     "name": "Orval 1 an",
                     "price": "5,50€",
-                    "description": "Suivant Disponibilité. À Température de cave."
+                    "description": "Suivant Disponibilité. À Température de cave.",
+                    "display":  true
                 },
                 {
                     "name": "Orval 3 ans",
                     "price": "6,00€",
-                    "description": "Suivant Disponibilité. À Température de cave."
+                    "description": "Suivant Disponibilité. À Température de cave.",
+                    "display":  true
                 },
                 {
                     "name": "Orval 6 ans",
                     "price": "6,50€",
-                    "description": "Suivant Disponibilité. À Température de cave."
+                    "description": "Suivant Disponibilité. À Température de cave.",
+                    "display":  true
                 },
                 {
                     "name": "Westmalle Triple",
                     "price": "4,50€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 }
             ]
         },
         {
             "CategoryTitle": "Boissons chaudes",
             "CategoryDesc": "",
+            "display": true,
             "CategoryContent": [{
                     "name": "Café",
                     "price": "2,20€",
-                    "description": ""
+                    "description": "",
+                "display":  true
                 },
                 {
                     "name": "Café Chantilly",
                     "price": "2,70€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Cécémel Chaud",
                     "price": "2,70€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Cécémel Chaud Chantilly",
                     "price": "3,20€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Chocolat Chaud Maison",
                     "price": "3,00€",
-                    "description": ""
+                    "description": "",
+                    "display":  true
                 },
                 {
                     "name": "Thé",
                     "price": "3,00€",
-                    "description": "Infusion à l'érable, Thé Blanc à la rose, Thé vert aux 4 agrumes, Thé Blanc Fleur d'Oranger, Thé Vert Bio-Fraise-Rhubarbe, Thé Noir-Rose-Fruit des Bois, Infusion Rooibos-Cannelle-Orange. "
+                    "description": "Infusion à l'érable, Thé Blanc à la rose, Thé vert aux 4 agrumes, Thé Blanc Fleur d'Oranger, Thé Vert Bio-Fraise-Rhubarbe, Thé Noir-Rose-Fruit des Bois, Infusion Rooibos-Cannelle-Orange. ",
+                    "display":  true
                 },
                 {
                     "name": "Hydromel Chaud",
                     "price": "6,00€",
-                    "description": "Hydromel de La Chaudasse poire."
+                    "description": "Hydromel de La Chaudasse poire.",
+                    "display":  true
                 }
             ]
         }
