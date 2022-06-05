@@ -4,7 +4,7 @@
     {
       "CategoryTitle": "Casse-Dal'",
       "CategoryDesc": "Hot-Dogs, Croq'Monsieur, Suggestions ",
-      "display": true,
+      "display": false,
       "CategoryContent": [
         {
           "name": "Hot-Dog",
