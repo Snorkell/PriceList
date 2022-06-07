@@ -10,13 +10,13 @@
           "name": "Hot-Dog",
           "price": "2,50€",
           "description": "Hot-Dogs, pain, moutarde, ketchup, cornichons, oignons.",
-          "display": true
+          "display": false
         },
         {
           "name": "Croq'Monsieur",
           "price": "3.50€",
           "description": "Pain de mie, jambon et emmental.",
-          "display": true
+          "display": false
         }
       ]
     },
