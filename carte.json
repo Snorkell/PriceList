@@ -978,10 +978,10 @@
           "display": true
         },
         {
-          "name": "Rodenbach",
-          "price": "3,00€",
+          "name": "006 Brasserie St-Lazard",
+          "price": "4,50€",
           "description": "",
-          "display": false
+          "display": true
         },
         {
           "name": "Corne Black",
@@ -1002,10 +1002,10 @@
           "display": true
         },
         {
-          "name": "Duvel",
+          "name": "Fram'Bush",
           "price": "4,50€",
           "description": "",
-          "display": false
+          "display": true
         },
         {
           "name": "Harmony",
@@ -1098,10 +1098,10 @@
           "display": true
         },
         {
-          "name": "Victoria",
+          "name": "St-Feuillien Saison",
           "price": "4,50€",
           "description": "",
-          "display": false
+          "display": true
         },
         {
           "name": "Kets",
@@ -1110,10 +1110,10 @@
           "display": true
         },
         {
-          "name": "Bel'Chic",
-          "price": "5,00€",
+          "name": "Corne Triple",
+          "price": "4,50€",
           "description": "",
-          "display": false
+          "display": true
         },
         {
           "name": "Super des Fagnes 'Cuvée Constant' ",
@@ -1135,6 +1135,12 @@
         },
         {
           "name": "Triple d'Anvers",
+          "price": "4,50€",
+          "description": "",
+          "display": true
+        },
+        {
+          "name": "Dominicain",
           "price": "4,50€",
           "description": "",
           "display": true
