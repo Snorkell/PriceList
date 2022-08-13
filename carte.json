@@ -4,7 +4,7 @@
     {
       "CategoryTitle": "Casse-Dal'",
       "CategoryDesc": "Hot-Dogs, Croq'Monsieur, Suggestions ",
-      "display": false,
+      "display": true,
       "CategoryContent": [
         {
           "name": "Hot-Dog",
@@ -66,7 +66,7 @@
     {
       "CategoryTitle": "Les Incontournables de La Lorgnette",
       "CategoryDesc": "Tout ce qu'il ne faut pas rater condensé en une catégorie",
-      "display": false,
+      "display": true,
       "CategoryContent": [
         {
           "name": "Thé Glacé Maison",
@@ -163,7 +163,7 @@
           "name": "Hydromel Mandarine",
           "price": "5,00€",
           "description": "Hydromel Amande.",
-          "display": true
+          "display": false
         }
       ]
     },
@@ -219,7 +219,7 @@
           "name": "My Immortal",
           "price": "7,50€",
           "description": "Tequila, Triple-Sec, Rhum, Bière.",
-          "display": false
+          "display": true
         },
         {
           "name": "Bièrejito",
@@ -237,13 +237,13 @@
           "name": "One",
           "price": "7,50€",
           "description": "Vin blanc, Citron, Kriek.",
-          "display": false
+          "display": true
         },
         {
           "name": "Only for the Weak",
           "price": "7,50€",
           "description": "Gin, jus de Citron, Violette, Kriek.",
-          "display": false
+          "display": true
         }
       ]
     },
@@ -262,7 +262,7 @@
           "name": "Polynectar",
           "price": "7,00€",
           "description": "Cécémel, Bailey's, Triple-Sec.",
-          "display": false
+          "display": true
         },
         {
           "name": "Felix Felicis",
@@ -274,7 +274,7 @@
           "name": "Serum de Vérité",
           "price": "7,00€",
           "description": "Hydromel Cerise, Vin blanc, Sirop de citron.",
-          "display": false
+          "display": true
         }
       ]
     },
@@ -293,7 +293,7 @@
           "name": "Tequila Sunrise",
           "price": "7,50€",
           "description": "Grenadine, Jus d'orange, Tequila.",
-          "display": false
+          "display": true
         },
         {
           "name": "Cuba Libre",
@@ -312,7 +312,7 @@
     {
       "CategoryTitle": "Cocktails de Café",
       "CategoryDesc": "Ici vous retrouverez les Irish et tous leurs dérivés",
-      "display": false,
+      "display": true,
       "CategoryContent": [
         {
           "name": "Irish Coffee",
@@ -472,7 +472,7 @@
           "name": "Cosaque",
           "price": "5,50€",
           "description": "Picon, Bière, Grenadine.",
-          "display": false
+          "display": true
         }
       ]
     },
@@ -758,21 +758,21 @@
         },
         {
           "name": "Looza Fraise",
-          "price": "",
+          "price": "2,30€",
           "description": "",
-          "display": false
+          "display": true
         },
         {
           "name": "Looza Melon Delight",
-          "price": "",
+          "price": "2,30€",
           "description": "",
-          "display": false
+          "display": true
         },
         {
           "name": "Looza Orange",
           "price": "2,30€",
           "description": "",
-          "display": false
+          "display": true
         },
         {
           "name": "Looza Pomme",
@@ -784,7 +784,7 @@
           "name": "Looza Pomme-Cerise",
           "price": "2,30€",
           "description": "",
-          "display": false
+          "display": true
         },
         {
           "name": "Schweppes Tonic",
@@ -809,7 +809,7 @@
     {
       "CategoryTitle": "Milk-shakes",
       "CategoryDesc": "Avec ou sans alcool",
-      "display": false,
+      "display": true,
       "CategoryContent": [
         {
           "name": "Milk-Shake Kinder Bueno",
@@ -833,7 +833,7 @@
           "name": "BièrauBeurre",
           "price": "7,00€ ou 8,00€",
           "description": "Au choix entre Strongbow (7,00€) et Bush (8,00€)",
-          "display": true
+          "display": false
         }
       ]
     },
@@ -987,19 +987,19 @@
           "name": "Corne Black",
           "price": "4,50€",
           "description": "",
-          "display": false
+          "display": true
         },
         {
           "name": "Cornet",
           "price": "4,50€",
           "description": "",
-          "display": false
+          "display": true
         },
         {
           "name": "Delirium",
           "price": "4,50€",
           "description": "",
-          "display": false
+          "display": true
         },
         {
           "name": "Duvel",
@@ -1011,13 +1011,13 @@
           "name": "Harmony",
           "price": "4,50€",
           "description": "",
-          "display": false
+          "display": true
         },
         {
           "name": "Moinette 1/3",
           "price": "4,50€",
           "description": "",
-          "display": false
+          "display": true
         },
         {
           "name": "Grisette Blanche",
@@ -1047,23 +1047,23 @@
           "name": "St-Feuillien Blonde",
           "price": "4,50€",
           "description": "",
-          "display": false
+          "display": true
         },
         {
           "name": "St-Feuillien Grand Cru",
           "price": "4,50€",
           "description": "",
-          "display": false
+          "display": true
         },
         {
           "name": "Surfine",
           "price": "4,50€",
           "description": "",
-          "display": false
+          "display": true
         },
         {
           "name": "Lupulus Hopera",
-          "price": "",
+          "price": "4,50€",
           "description": "",
           "display": true
         },
@@ -1071,31 +1071,31 @@
           "name": "Vedett I.P.A.",
           "price": "4,50€",
           "description": "",
-          "display": false
+          "display": true
         },
         {
           "name": "Chouffe",
           "price": "4,50€",
           "description": "",
-          "display": false
+          "display": true
         },
         {
           "name": "Ragnarök",
           "price": "5,00€",
           "description": "",
-          "display": false
+          "display": true
         },
         {
           "name": "Duvel 6,66",
           "price": "4,50€",
           "description": "",
-          "display": false
+          "display": true
         },
         {
           "name": "Belgian Coast I.P.A.",
           "price": "4,50€",
           "description": "",
-          "display": false
+          "display": true
         },
         {
           "name": "Victoria",
@@ -1119,25 +1119,25 @@
           "name": "Super des Fagnes 'Cuvée Constant' ",
           "price": "5,00€",
           "description": "",
-          "display": false
+          "display": true
         },
         {
           "name": "Super des Fagnes 'Blood Orange' ",
           "price": "5,00€",
           "description": "",
-          "display": false
+          "display": true
         },
         {
           "name": "Wild'Jo ",
           "price": "4,50€",
           "description": "",
-          "display": false
+          "display": true
         },
         {
           "name": "Triple d'Anvers",
           "price": "4,50€",
           "description": "",
-          "display": false
+          "display": true
         },
         {
           "name": "Karmeliet",
@@ -1169,56 +1169,56 @@
           "name": "Chimay Bleue",
           "price": "4,50€",
           "description": "",
-          "display": false
+          "display": true
         },
         {
           "name": "Chimay Blanche",
           "price": "4,50€",
           "description": "",
-          "display": false
+          "display": true
         },
         {
           "name": "Chimay Dorée",
           "price": "4,00€",
           "description": "",
-          "display": false
+          "display": true
         },
         {
           "name": "Orval",
           "price": "4,50€",
           "description": "Suivant Disponibilité. À Température de cave.",
-          "display": false
+          "display": true
         },
         {
           "name": "Orval 1 an",
           "price": "5,50€",
           "description": "Suivant Disponibilité. À Température de cave.",
-          "display": false
+          "display": true
         },
         {
           "name": "Orval 3 ans",
           "price": "6,00€",
           "description": "Suivant Disponibilité. À Température de cave.",
-          "display": false
+          "display": true
         },
         {
           "name": "Orval 6 ans",
           "price": "6,50€",
           "description": "Suivant Disponibilité. À Température de cave.",
-          "display": false
+          "display": true
         },
         {
           "name": "Westmalle Triple",
           "price": "4,50€",
           "description": "",
-          "display": false
+          "display": true
         }
       ]
     },
     {
       "CategoryTitle": "Boissons chaudes",
       "CategoryDesc": "",
-      "display": false,
+      "display": true,
       "CategoryContent": [
         {
           "name": "Café",
