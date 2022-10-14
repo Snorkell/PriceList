@@ -4,7 +4,7 @@
     {
       "CategoryTitle": "Casse-Dal'",
       "CategoryDesc": "Hot-Dogs, Croq'Monsieur, Suggestions ",
-      "display": true,
+      "display": False,
       "CategoryContent": [
         {
           "name": "Hot-Dog",
@@ -81,14 +81,14 @@
           "display": true
         },
         {
-          "name": "Milk-Shake",
-          "price": "4,00€",
-          "description": "Les meilleurs de la région: Kinder Bueno, Speculoos, Kasteel Rouge ou Bièraubeurre (Caramel Beurre salé, Cidre ou Bush, épices)",
+          "name": "Hypocras maison",
+          "price": "4,50€",
+          "description": "Vin épicé recette ancienne",
           "display": true
         },
         {
-          "name": "Milk-Shake Kasteel Rouge",
-          "price": "7,50€",
+          "name": "Hypocras Chaud",
+          "price": "5,00€",
           "description": "Intrigé? Laisse-toi tenter",
           "display": true
         },
@@ -99,9 +99,15 @@
           "display": true
         },
         {
+          "name": "Pomatium",
+          "price": "3,50€",
+          "description": "Recette de Vin de pomme au miel, légèrement pétillant",
+          "display": true
+        },
+        {
           "name": "Hydromel Chaud",
           "price": "6,00€",
-          "description": "Hydromel de La Chaudasse poire.",
+          "description": "",
           "display": true
         },
         {
@@ -809,7 +815,7 @@
     {
       "CategoryTitle": "Milk-shakes",
       "CategoryDesc": "Avec ou sans alcool",
-      "display": true,
+      "display": false,
       "CategoryContent": [
         {
           "name": "Milk-Shake Kinder Bueno",
@@ -984,7 +990,7 @@
           "display": true
         },
         {
-          "name": "Corne Black",
+          "name": "Corne Triple",
           "price": "4,50€",
           "description": "",
           "display": true
@@ -1092,13 +1098,13 @@
           "display": true
         },
         {
-          "name": "Belgian Coast I.P.A.",
+          "name": "St-Feuillien Saison",
           "price": "4,50€",
           "description": "",
           "display": true
         },
         {
-          "name": "St-Feuillien Saison",
+          "name": "Atrium KOS",
           "price": "4,50€",
           "description": "",
           "display": true
@@ -1107,12 +1113,6 @@
           "name": "Kets",
           "price": "4,00€",
           "description": "Bière Montoise, avec un petit côté blanche sur la fin qui donne fraicheur et fruit. ",
-          "display": true
-        },
-        {
-          "name": "Corne Triple",
-          "price": "4,50€",
-          "description": "",
           "display": true
         },
         {
@@ -1140,13 +1140,13 @@
           "display": true
         },
         {
-          "name": "Dominicain",
-          "price": "4,50€",
+          "name": "Valduc Thor",
+          "price": "5,50€",
           "description": "",
           "display": true
         },
         {
-          "name": "Corbeau",
+          "name": "Brugse Zot",
           "price": "4,50€",
           "description": "",
           "display": true
@@ -1154,6 +1154,12 @@
         {
           "name": "Karmeliet",
           "price": "4,50€",
+          "description": "",
+          "display": true
+        },
+        {
+          "name": "Gueze BOON",
+          "price": "3,00€",
           "description": "",
           "display": true
         }
