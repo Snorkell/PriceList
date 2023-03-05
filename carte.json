@@ -318,6 +318,12 @@
           "price": "6,00€",
           "description": "Vodka Pink, Vodka, Tabasco, pomme",
           "display": true
+        },
+        {
+          "name": "Le Mot Magique",
+          "price": "12,00€",
+          "description": "Les Trois au prix de 2",
+          "display": true
         }
       ]
     },
