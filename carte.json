@@ -296,12 +296,11 @@
         }
       ]
     },
-      {
+    {
       "CategoryTitle": "Le Mot Magique",
       "CategoryDesc": "Short drinks en 7cl",
       "display": true,
       "CategoryContent": [
-        },
          {
           "name": "Le 6",
           "price": "6,00€",
@@ -1195,13 +1194,13 @@
           "description": "",
           "display": true
         },
-         {
+        {
           "name": "Imperatrice",
           "price": "5,50€",
           "description": "",
           "display": true
         },
-         {
+        {
           "name": "Duchesse",
           "price": "4,00€",
           "description": "",
