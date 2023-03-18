@@ -1046,7 +1046,7 @@
         },
         {
           "name": "Corne Black",
-          "price": "4,50€",
+          "price": "5,00€",
           "description": "",
           "display": true
         },
@@ -1058,7 +1058,7 @@
         },
         {
           "name": "Fram'Bush",
-          "price": "4,50€",
+          "price": "5,00€",
           "description": "",
           "display": true
         },
@@ -1119,6 +1119,12 @@
         {
           "name": "Vedett I.P.A.",
           "price": "4,50€",
+          "description": "",
+          "display": true
+        },
+        {
+          "name": "Vedett Blanche",
+          "price": "5,00€",
           "description": "",
           "display": true
         },
@@ -1219,8 +1225,8 @@
           "display": true
         },
         {
-          "name": "Hadès",
-          "price": "5,50€",
+          "name": "Victoria",
+          "price": "5,00€",
           "description": "",
           "display": true
         },
