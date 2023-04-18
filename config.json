@@ -1,5 +1,5 @@
 {
-    "allowedSSID": ["IronManEstMort" ,"LaLorgnette","AndroidWifi", "TADAAM", "Proximus-Home-4948"],
+    "allowedSSID": ["NoVagharNo" , "AndroidWifi", "TADAAM"],
     "defaultServerIp": "192.168.0.227",
     "everyOneAdminIfVotingDisabled":true,
     "disableDownVote": false
