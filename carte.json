@@ -25,14 +25,14 @@
       "CategoryDesc": "Nos Spécialités, que vous ne trouverez nulle part ailleurs",
       "display": true,
       "CategoryContent": [
-        {
-          "name": "Bush Flambée",
+         {
+          "name": "Fram'Bush",
           "price": "14,00€",
           "description": "Cocktail à la bière servi en 75cl à partager.",
           "display": true
         },
-         {
-          "name": "Bush de Noël Flambée",
+        {
+          "name": "Bush Flambée",
           "price": "14,00€",
           "description": "Cocktail à la bière servi en 75cl à partager.",
           "display": true
@@ -58,12 +58,6 @@
         {
           "name": "Le Coup de Grisou 'Troll' ",
           "price": "7,50€",
-          "description": "Première 'Flambée' individuelle, tu as le choix entre 3 Bières.",
-          "display": true
-        },
-        {
-          "name": "Le Coup de Grisou 'Kets' ",
-          "price": "8,00€",
           "description": "Première 'Flambée' individuelle, tu as le choix entre 3 Bières.",
           "display": true
         },
@@ -108,7 +102,7 @@
           "name": "Chocolat Chaud Maison",
           "price": "3,00€",
           "description": "100% HomeMade",
-          "display": true
+          "display": false
         },
         {
           "name": "Pomatium",
@@ -120,7 +114,7 @@
           "name": "Hydromel Chaud",
           "price": "6,00€",
           "description": "",
-          "display": true
+          "display": false
         },
         {
           "name": "Hydromel",
@@ -217,13 +211,13 @@
       "CategoryContent": [
         {
           "name": "Pêch'Mel Original (25cl)",
-          "price": "3,90€",
+          "price": "4,00€",
           "description": "Mi Bush mi Pêcheresse en 25cl précisez bien l'originale, nous avons également la commerciale en bouteille.",
           "display": true
         },
         {
           "name": "Pêch'Mel Original (50CL)",
-          "price": "7,80€",
+          "price": "8,00€",
           "description": "Mi Bush mi Pêcheresse en 50cl précisez bien l'originale, nous avons également la commerciale en bouteille.",
           "display": true
         },
@@ -237,7 +231,7 @@
           "name": "My Immortal",
           "price": "8,00€",
           "description": "Tequila, Triple-Sec, Rhum, Bière.",
-          "display": true
+          "display": false
         },
         {
           "name": "Bièjito",
@@ -249,13 +243,13 @@
           "name": "Fear of The Dark",
           "price": "8,00€",
           "description": "Café, Bière, Triple-Sec. Sans Triple-Sec à 5€.",
-          "display": true
+          "display": false
         },
         {
           "name": "One",
           "price": "8,00€",
           "description": "Vin blanc, Citron, Kriek.",
-          "display": true
+          "display": false
         },
         {
           "name": "Only for the Weak",
@@ -280,7 +274,7 @@
           "name": "Polynectar",
           "price": "7,00€",
           "description": "Cécémel, Bailey's, Triple-Sec.",
-          "display": true
+          "display": false
         },
         {
           "name": "Felix Felicis",
@@ -292,14 +286,14 @@
           "name": "Serum de Vérité",
           "price": "7,00€",
           "description": "Hydromel Cerise, Vin blanc, Sirop de citron.",
-          "display": true
+          "display": false
         }
       ]
     },
     {
       "CategoryTitle": "Le Mot Magique",
       "CategoryDesc": "Short drinks en 7cl",
-      "display": true,
+      "display": false,
       "CategoryContent": [
          {
           "name": "Le 6",
@@ -361,7 +355,7 @@
     {
       "CategoryTitle": "Cocktails de Café",
       "CategoryDesc": "Ici vous retrouverez les Irish et tous leurs dérivés",
-      "display": true,
+      "display": false,
       "CategoryContent": [
         {
           "name": "Irish Coffee",
@@ -441,7 +435,7 @@
     {
       "CategoryTitle": "Jerichan (Cocktails au litre)",
       "CategoryDesc": "Nos cocktails les plus prisés, mais en version 1 litre ",
-      "display": true,
+      "display": false,
       "CategoryContent": [
         {
           "name": "Felix Felicis (au litre)",
@@ -747,15 +741,15 @@
       "CategoryContent": [
         {
           "name": "Coca-Cola",
-          "price": "2,40€",
+          "price": "2,50€",
           "description": "",
           "display": true
         },
         {
           "name": "Coca-Cola Zero",
-          "price": "2,40€",
+          "price": "2,50€",
           "description": "",
-          "display": true
+          "display": false
         },
         {
           "name": "Chaudfontaine Plate",
@@ -765,19 +759,19 @@
         },
         {
           "name": "Chaudfontaine Pétillante",
-          "price": "2,40€",
+          "price": "2,50€",
           "description": "",
           "display": true
         },
         {
           "name": "Fanta Orange",
-          "price": "2,40€",
+          "price": "2,50€",
           "description": "",
           "display": true
         },
         {
           "name": "Sprite",
-          "price": "2,40€",
+          "price": "2,50€",
           "description": "",
           "display": true
         },
@@ -785,7 +779,7 @@
           "name": "Lipton Ice-Tea",
           "price": "2,50€",
           "description": "",
-          "display": true
+          "display": false
         },
         {
           "name": "Lipton Ice-Tea Pêche",
@@ -797,7 +791,7 @@
           "name": "Lipton Ice-Tea Green",
           "price": "2,50€",
           "description": "",
-          "display": true
+          "display": false
         },
         {
           "name": "Looza A.C.E.",
@@ -807,15 +801,15 @@
         },
         {
           "name": "Looza Ananas",
-          "price": "2,30€",
+          "price": "2,50€",
           "description": "",
           "display": true
         },
         {
           "name": "Looza Fraise",
-          "price": "2,30€",
+          "price": "2,50€",
           "description": "",
-          "display": true
+          "display": false
         },
         {
           "name": "Looza Melon Delight",
@@ -831,7 +825,7 @@
         },
         {
           "name": "Looza Pomme",
-          "price": "2,30€",
+          "price": "2,50€",
           "description": "",
           "display": false
         },
@@ -839,7 +833,7 @@
           "name": "Looza Pomme-Cerise",
           "price": "2,50€",
           "description": "",
-          "display": true
+          "display": false
         },
         {
           "name": "Schweppes Tonic",
@@ -977,6 +971,12 @@
           "description": "",
           "display": true
         },
+         {
+          "name": "Jupiler 1L En pichets pour éviter de payer des cautions",
+          "price": "10,00€",
+          "description": "",
+          "display": true
+        },
         {
           "name": "Bush 25cl",
           "price": "4,50€",
@@ -991,20 +991,20 @@
         },
         {
           "name": "Pêche Mel Bush",
-          "price": "4,50€",
-          "description": "",
+          "price": "5,00€",
+          "description": "en Gobelets 3,80",
           "display": true
         },
         {
           "name": "Kasteel Rouge",
-          "price": "4,50€",
-          "description": "",
+          "price": "5,00€",
+          "description": "en Gobelets 3,80",
           "display": true
         },
         {
           "name": "Triple Karmeliet",
           "price": "4,50€",
-          "description": "",
+          "description": "en Gobelets 3,40",
           "display": true
         },
         {
@@ -1028,13 +1028,13 @@
         },
         {
           "name": "Barbar Brune",
-          "price": "4,50€",
+          "price": "5,00€",
           "description": "",
           "display": true
         },
         {
           "name": "Cuvée des Trolls",
-          "price": "3,30€",
+          "price": "3,50€",
           "description": "",
           "display": true
         },
@@ -1048,7 +1048,7 @@
           "name": "Corne Black",
           "price": "5,00€",
           "description": "",
-          "display": true
+          "display": false
         },
         {
           "name": "Delirium",
@@ -1075,14 +1075,14 @@
           "display": true
         },
         {
-          "name": "Grisette Blanche",
-          "price": "3,30€",
+          "name": "Grisette Bio sans Gluten",
+          "price": "3,50€",
           "description": "",
           "display": true
         },
         {
           "name": "Kriek St-Louis",
-          "price": "3,30€",
+          "price": "3,50€",
           "description": "",
           "display": true
         },
@@ -1102,23 +1102,17 @@
           "name": "St-Feuillien Blonde",
           "price": "4,50€",
           "description": "",
-          "display": true
+          "display": false
         },
         {
           "name": "Surfine",
-          "price": "4,50€",
+          "price": "5,00€",
           "description": "",
-          "display": true
+          "display": false
         },
         {
           "name": "Lupulus Hopera",
-          "price": "4,50€",
-          "description": "",
-          "display": true
-        },
-        {
-          "name": "Vedett I.P.A.",
-          "price": "4,50€",
+          "price": "5,00€",
           "description": "",
           "display": true
         },
@@ -1130,9 +1124,9 @@
         },
         {
           "name": "Chouffe",
-          "price": "4,50€",
+          "price": "5,00€",
           "description": "",
-          "display": true
+          "display": false
         },
         {
           "name": "Ragnarök",
@@ -1142,20 +1136,14 @@
         },
         {
           "name": "Duvel 6,66",
-          "price": "4,50€",
+          "price": "5,00€",
           "description": "",
-          "display": true
+          "display": false
         },
         {
           "name": "St-Feuillien Saison",
           "price": "4,50€",
           "description": "",
-          "display": true
-        },
-        {
-          "name": "Kets",
-          "price": "4,00€",
-          "description": "Bière Montoise, avec un petit côté blanche sur la fin qui donne fraicheur et fruit. ",
           "display": true
         },
         {
@@ -1168,71 +1156,53 @@
           "name": "Super des Fagnes 'Blood Orange' ",
           "price": "5,00€",
           "description": "",
-          "display": true
+          "display": false
         },
         {
           "name": "Wild'Jo ",
           "price": "4,50€",
           "description": "",
-          "display": true
+          "display": false
         },
         {
           "name": "Triple d'Anvers",
           "price": "4,50€",
           "description": "",
-          "display": true
-        },
-        {
-          "name": "Valduc Thor",
-          "price": "5,50€",
-          "description": "",
-          "display": true
-        },
-        {
-          "name": "Brugse Zot sans Alcool",
-          "price": "4,50€",
-          "description": "",
-          "display": true
+          "display": false
         },
         {
           "name": "Brugge Triple",
           "price": "5,00€",
           "description": "",
-          "display": true
+          "display": false
         },
         {
           "name": "Maredsous",
           "price": "4,50€",
           "description": "",
-          "display": true
+          "display": false
         },
         {
           "name": "Imperatrice",
           "price": "5,50€",
           "description": "",
-          "display": true
+          "display": false
         },
         {
           "name": "Duchesse",
           "price": "4,00€",
           "description": "",
-          "display": true
+          "display": false
         },
         {
           "name": "Filou",
           "price": "4,50€",
           "description": "",
-          "display": true
-        },
-        {
-          "name": "Victoria",
-          "price": "5,00€",
-          "description": "",
-          "display": true
+          "display": false
         },
         {
           "name": "Gueuze BOON",
-          "price": "3,30€",
+          "price": "3,50€",
           "description": "",
           "display": true
         }
@@ -1245,7 +1215,7 @@
       "CategoryContent": [
         {
           "name": "Strongbow",
-          "price": "4,30€",
+          "price": "4,50€",
           "description": "",
           "display": true
         }
@@ -1260,19 +1230,19 @@
           "name": "Chimay Blanche",
           "price": "4,50€",
           "description": "",
-          "display": true
+          "display": false
         },
         {
           "name": "Chimay Dorée",
           "price": "4,00€",
           "description": "",
-          "display": true
+          "display": false
         },
         {
           "name": "Orval",
           "price": "5,00€",
           "description": "Suivant Disponibilité. À Température de cave.",
-          "display": true
+          "display": false
         },
         {
           "name": "Orval 1 an",
@@ -1296,36 +1266,36 @@
           "name": "Westmalle Triple",
           "price": "5,00€",
           "description": "",
-          "display": true
+          "display": false
         }
       ]
     },
     {
       "CategoryTitle": "Boissons chaudes",
       "CategoryDesc": "",
-      "display": true,
+      "display": false,
       "CategoryContent": [
         {
           "name": "Café",
-          "price": "2,40€",
+          "price": "2,50€",
           "description": "",
           "display": true
         },
         {
           "name": "Café Chantilly",
-          "price": "2,90€",
+          "price": "3,00€",
           "description": "",
           "display": true
         },
         {
           "name": "Cécémel Chaud",
-          "price": "2,90€",
+          "price": "3,00€",
           "description": "",
           "display": true
         },
         {
           "name": "Cécémel Chaud Chantilly",
-          "price": "3,40€",
+          "price": "3,50€",
           "description": "",
           "display": true
         },
