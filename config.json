@@ -1,5 +1,5 @@
 {
-    "allowedSSID": ["NoVagharNo", "AndroidWifi", "TADAAM"],
+    "allowedSSID": ["NoVagharNo", "AndroidWifi", "TADAAM", "WiFi5.0-4948"],
     "defaultServerIp": "192.168.0.227",
     "everyOneAdminIfVotingDisabled":true,
     "disableDownVote": false
