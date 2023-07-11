@@ -892,14 +892,6 @@
         }
       ]
     },
-        {
-          "name": "Chips",
-          "price": "2,00€",
-          "description": "",
-          "display": true
-        }
-      ]
-    },
     {
       "CategoryTitle": "Vins",
       "CategoryDesc": "Découvrez notre sélection de vins français",
