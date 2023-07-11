@@ -7,12 +7,6 @@
       "display": true,
       "CategoryContent": [
         {
-          "name": "Hot-Dog",
-          "price": "2,50€",
-          "description": "Hot-Dogs, pain, moutarde, ketchup, cornichons, oignons.",
-          "display": false
-        },
-        {
           "name": "Plancha",
           "price": "15,00€",
           "description": "Coppa, Sopresso ail, Saucisson de paris, saucisson à l'Orval, Fromage à l'ortie, Fromage au poivre.",
@@ -237,7 +231,7 @@
           "name": "My Immortal",
           "price": "8,00€",
           "description": "Tequila, Triple-Sec, Rhum, Bière.",
-          "display": false
+          "display": true
         },
         {
           "name": "Bièjito",
@@ -249,13 +243,13 @@
           "name": "Fear of The Dark",
           "price": "8,00€",
           "description": "Café, Bière, Triple-Sec. Sans Triple-Sec à 5€.",
-          "display": false
+          "display": true
         },
         {
           "name": "One",
           "price": "8,00€",
           "description": "Vin blanc, Citron, Kriek.",
-          "display": false
+          "display": true
         },
         {
           "name": "Only for the Weak",
@@ -280,7 +274,7 @@
           "name": "Polynectar",
           "price": "7,00€",
           "description": "Cécémel, Bailey's, Triple-Sec.",
-          "display": false
+          "display": true
         },
         {
           "name": "Felix Felicis",
@@ -292,7 +286,7 @@
           "name": "Serum de Vérité",
           "price": "7,00€",
           "description": "Hydromel Cerise, Vin blanc, Sirop de citron.",
-          "display": false
+          "display": true
         }
       ]
     },
@@ -1146,12 +1140,6 @@
           "display": true
         },
         {
-          "name": "Brugge Triple",
-          "price": "5,00€",
-          "description": "",
-          "display": false
-        },
-        {
           "name": "Maredsous",
           "price": "4,50€",
           "description": "",
@@ -1167,7 +1155,7 @@
           "name": "Filou",
           "price": "4,50€",
           "description": "",
-          "display": false
+          "display": true
         }
       ]
     },
