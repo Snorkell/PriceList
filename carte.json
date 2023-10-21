@@ -3,11 +3,17 @@
   "Data": [
     {
       "CategoryTitle": "Casse-Dal'",
-      "CategoryDesc": "Hot-Dogs, Croq'Monsieur, Suggestions ",
+      "CategoryDesc": " ",
       "display": true,
       "CategoryContent": [
         {
-          "name": "Plancha",
+          "name": "Plancha 2cts",
+          "price": "8,00€",
+          "description": "Coppa, Sopresso ail, Saucisson de paris, saucisson à l'Orval, Fromage à l'ortie, Fromage au poivre.",
+          "display": true
+        },
+        {
+          "name": "Plancha 4cts",
           "price": "15,00€",
           "description": "Coppa, Sopresso ail, Saucisson de paris, saucisson à l'Orval, Fromage à l'ortie, Fromage au poivre.",
           "display": true
@@ -119,7 +125,7 @@
         {
           "name": "Le Coup de Grisou",
             "price": "7,50€ ou 8,00€ ou 9,00€",
-          "description": "Première 'Flambée' individuelle, tu as le choix entre 3 Bières: La Cuvée des Trolls, la Kets ou la Bush de Noël.",
+          "description": "Première 'Flambée' individuelle, tu as le choix entre 2 Bières: La Cuvée des Trolls ou la Bush de Noël.",
           "display": true
         },
         {
@@ -164,12 +170,6 @@
           "price": "5,50€",
           "description": "Au miel de Châtaignier.",
           "display": true
-        },
-        {
-          "name": "Hydromel Sureau de chez 'Gargamiel'.",
-          "price": "7,00€",
-          "description": "",
-          "display": true
         }
       ]
     },
@@ -196,6 +196,12 @@
           "description": "Pequet Cuberdon, Sprite.",
           "display": true
         },
+        {
+          "name": "Teal'k",
+          "price": "5,00€",
+          "description": "Hydromel au miel de châtaigner + Thé Glacé Maison",
+          "display": true
+        }
          {
           "name": "Hémoglobine",
           "price": "5,00€",
@@ -526,7 +532,7 @@
       "CategoryContent": [
         {
           "name": "Amaretto",
-          "price": "5,50€",
+          "price": "5,00€",
           "description": "",
           "display": true
         },
@@ -556,13 +562,13 @@
         },
         {
           "name": "Bailey's",
-          "price": "5,50€",
+          "price": "5,00€",
           "description": "",
           "display": true
         },
         {
           "name": "Cuarenta y tres (43)",
-          "price": "5,50€",
+          "price": "5,00€",
           "description": "",
           "display": true
         }
@@ -571,7 +577,7 @@
     {
       "CategoryTitle": "Rhums",
       "CategoryDesc": "Nos meilleurs Rhums",
-      "display": true,
+      "display": false,
       "CategoryContent": [
         {
           "name": "Plantation",
@@ -629,12 +635,6 @@
           "display": true
         },
         {
-          "name": "Jack Daniel's Singel Barrel",
-          "price": "8,00€",
-          "description": "Etats-Unis",
-          "display": true
-        },
-        {
           "name": "Powers",
           "price": "8,00€",
           "description": "Irlande",
@@ -668,12 +668,6 @@
         {
           "name": "Bombay Sapphire",
           "price": "7,00€",
-          "description": "",
-          "display": true
-        },
-        {
-          "name": "Bombay Bramble",
-          "price": "6,00€",
           "description": "",
           "display": true
         },
@@ -776,28 +770,10 @@
           "display": true
         },
         {
-          "name": "Lipton Ice-Tea",
-          "price": "2,50€",
-          "description": "",
-          "display": false
-        },
-        {
           "name": "Lipton Ice-Tea Pêche",
           "price": "2,50€",
           "description": "",
           "display": true
-        },
-        {
-          "name": "Lipton Ice-Tea Green",
-          "price": "2,50€",
-          "description": "",
-          "display": true
-        },
-        {
-          "name": "Looza A.C.E.",
-          "price": "",
-          "description": "",
-          "display": false
         },
         {
           "name": "Looza Ananas",
@@ -812,22 +788,10 @@
           "display": true
         },
         {
-          "name": "Looza Melon Delight",
-          "price": "2,50€",
-          "description": "",
-          "display": false
-        },
-        {
           "name": "Looza Orange",
           "price": "2,50€",
           "description": "",
           "display": true
-        },
-        {
-          "name": "Looza Pomme",
-          "price": "2,50€",
-          "description": "",
-          "display": false
         },
         {
           "name": "Looza Pomme-Cerise",
@@ -837,13 +801,13 @@
         },
         {
           "name": "Schweppes Tonic",
-          "price": "3,00€",
+          "price": "2,50€",
           "description": "",
           "display": true
         },
         {
           "name": "Schweppes Agrum'",
-          "price": "3,00€",
+          "price": "2,50€",
           "description": "",
           "display": true
         },
@@ -909,12 +873,6 @@
           "description": "Syrah, Sud de la France.",
           "display": true
         },
-        {
-          "name": "Cava Musa Bouteille",
-          "price": "25,00€",
-          "description": "75cl",
-          "display": false
-        }
       ]
     },
     {
@@ -945,12 +903,6 @@
           "price": "4,50€",
           "description": "",
           "display": true
-        },
-        {
-          "name": "Filou",
-          "price": "4,50€",
-          "description": "",
-          "display": false
         },
         {
           "name": "Pêche Mel Bush",
@@ -1009,7 +961,7 @@
         },
         {
           "name": "Corne Black",
-          "price": "5,00€",
+          "price": "5,50€",
           "description": "",
           "display": true
         },
@@ -1069,7 +1021,7 @@
         },
         {
           "name": "St-Feuillien Blonde",
-          "price": "4,50€",
+          "price": "5,00€",
           "description": "",
           "display": true
         },
@@ -1086,14 +1038,20 @@
           "display": true
         },
         {
-          "name": "Vedett Blanche",
+          "name": "Lupulus Triple",
           "price": "5,00€",
           "description": "",
           "display": true
         },
         {
+          "name": "Vedett I.P.A.",
+          "price": "4,50€",
+          "description": "",
+          "display": true
+        },
+        {
           "name": "Chouffe",
-          "price": "5,00€",
+          "price": "4,50€",
           "description": "",
           "display": true
         },
@@ -1105,7 +1063,7 @@
         },
         {
           "name": "Duvel 6,66",
-          "price": "5,00€",
+          "price": "4,50€",
           "description": "",
           "display": true
         },
@@ -1117,12 +1075,6 @@
         },
         {
           "name": "Super des Fagnes 'Cuvée Constant' ",
-          "price": "5,00€",
-          "description": "",
-          "display": true
-        },
-        {
-          "name": "Super des Fagnes 'Blood Orange' ",
           "price": "5,00€",
           "description": "",
           "display": true
@@ -1154,6 +1106,78 @@
         {
           "name": "Filou",
           "price": "4,50€",
+          "description": "",
+          "display": true
+        },
+        {
+          "name": "Goliath 6",
+          "price": "4,50€",
+          "description": "",
+          "display": true
+        },
+        {
+          "name": "ALE Be Back",
+          "price": "5,50€",
+          "description": "",
+          "display": true
+        },
+        {
+          "name": "Duchesse de Bourgogne",
+          "price": "4,00€",
+          "description": "",
+          "display": true
+        },
+        {
+          "name": "Dominicains Quadruple",
+          "price": "5,00€",
+          "description": "",
+          "display": true
+        },
+        {
+          "name": "St Bernardus Pater 6",
+          "price": "4,50€",
+          "description": "",
+          "display": true
+        },
+        {
+          "name": "Bush de Noël",
+          "price": "5,00€",
+          "description": "",
+          "display": true
+        },
+        {
+          "name": "Bush Triple",
+          "price": "5,00€",
+          "description": "",
+          "display": true
+        },
+        {
+          "name": "Corbeaux",
+          "price": "6,00€",
+          "description": "",
+          "display": true
+        },
+        {
+          "name": "Tête de Mort",
+          "price": "6,00€",
+          "description": "",
+          "display": true
+        },
+        {
+          "name": "Lutgarde Blanche",
+          "price": "5,00€",
+          "description": "",
+          "display": true
+        },
+        {
+          "name": "Cornet",
+          "price": "5,00€",
+          "description": "",
+          "display": true
+        },
+        {
+          "name": "Kwak",
+          "price": "5,00€",
           "description": "",
           "display": true
         }
@@ -1265,13 +1289,13 @@
         {
           "name": "Thé",
           "price": "3,00€",
-          "description": "Infusion à l'érable, Thé Blanc à la rose, Thé vert aux 4 agrumes, Thé Blanc Fleur d'Oranger, Thé Vert Bio-Fraise-Rhubarbe, Thé Noir-Rose-Fruit des Bois, Infusion Rooibos-Cannelle-Orange. ",
+          "description": "Nous changeons régulièrement. Plus d'info au bar. ",
           "display": true
         },
         {
           "name": "Hydromel Chaud",
           "price": "6,00€",
-          "description": "Hydromel de La Chaudasse poire.",
+          "description": "Hydromel de La Chaudasse.",
           "display": true
         }
       ]
