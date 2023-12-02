@@ -1272,17 +1272,17 @@
           "name": "Cécémel Chaud",
           "price": "3,00€",
           "description": "",
-          "display": true
+          "display": false
         },
         {
           "name": "Cécémel Chaud Chantilly",
           "price": "3,50€",
           "description": "",
-          "display": true
+          "display": false
         },
         {
           "name": "Chocolat Chaud Maison",
-          "price": "3,00€",
+          "price": "3,50€",
           "description": "",
           "display": true
         },
