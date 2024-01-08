@@ -160,7 +160,7 @@
           "display": true
         },
         {
-          "name": "Hydromel Pomme Cannelle",
+          "name": "Hydromel Gingembre & Piment",
           "price": "5,50€",
           "description": "",
           "display": true
@@ -316,7 +316,7 @@
          {
           "name": "Le Play",
           "price": "6,00€",
-          "description": "Vodka Pink, Vodka, Tabasco, pomme",
+          "description": "Rhum, Vodka, Tabasco, pomme",
           "display": true
         },
         {
@@ -486,12 +486,6 @@
           "description": "+ Soft : 0,50€ + Red-Bull : 1,00€.",
           "display": true
         },
-        {
-          "name": "Bacardi 'Anejo Cuatro' ",
-          "price": "6,00€",
-          "description": "+ Soft : 0,50€ + Red-Bull : 1,00€.",
-          "display": true
-        }
       ]
     },
     {
@@ -539,12 +533,6 @@
         {
           "name": "Cognac Prunier",
           "price": "5,50€",
-          "description": "",
-          "display": true
-        },
-        {
-          "name": "Cognac Prunier VSOP",
-          "price": "8,00€",
           "description": "",
           "display": true
         },
@@ -638,7 +626,7 @@
           "name": "Powers",
           "price": "8,00€",
           "description": "Irlande",
-          "display": true
+          "display": false
         },
         {
           "name": "Dewar's",
@@ -675,19 +663,19 @@
           "name": "Bulldog",
           "price": "11,00€",
           "description": "Tonic compris",
-          "display": true
+          "display": false
         },
         {
           "name": "Hendrick's",
           "price": "11,00€",
           "description": "Tonic compris",
-          "display": true
+          "display": false
         },
         {
           "name": "Doubble You",
           "price": "11,00€",
           "description": "Tonic compris",
-          "display": true
+          "display": false
         }
       ]
     },
@@ -794,20 +782,8 @@
           "display": true
         },
         {
-          "name": "Looza Pomme-Cerise",
-          "price": "2,50€",
-          "description": "",
-          "display": true
-        },
-        {
-          "name": "Schweppes Tonic",
-          "price": "2,50€",
-          "description": "",
-          "display": true
-        },
-        {
-          "name": "Schweppes Agrum'",
-          "price": "2,50€",
+          "name": "Pom'd'happy Pomme-Cerise",
+          "price": "3,00€",
           "description": "",
           "display": true
         },
@@ -911,7 +887,7 @@
           "display": true
         },
         {
-          "name": "Kasteel Rouge",
+          "name": "Kwak Rouge",
           "price": "5,00€",
           "description": "en Gobelets 3,80",
           "display": true
@@ -949,7 +925,7 @@
         },
         {
           "name": "Cuvée des Trolls",
-          "price": "3,50€",
+          "price": "4,50€",
           "description": "",
           "display": true
         },
@@ -978,21 +954,15 @@
           "display": true
         },
         {
-          "name": "Harmony",
-          "price": "4,50€",
-          "description": "",
-          "display": true
-        },
-        {
           "name": "Moinette 1/3",
           "price": "5,00€",
           "description": "",
           "display": true
         },
         {
-          "name": "Grisette Bio sans Gluten",
+          "name": "Grisette Bio Citra Hop sans Gluten",
           "price": "3,50€",
-          "description": "",
+          "description": "Sans Gluten",
           "display": true
         },
         {
@@ -1178,6 +1148,12 @@
         {
           "name": "Kwak",
           "price": "5,00€",
+          "description": "",
+          "display": true
+        },
+        {
+          "name": "Brussels Calling",
+          "price": "4,00€",
           "description": "",
           "display": true
         }
