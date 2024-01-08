@@ -57,7 +57,7 @@
         },
         {
           "name": "Le Coup de Grisou 'Troll' ",
-          "price": "7,50€",
+          "price": "8,50€",
           "description": "Première 'Flambée' individuelle, tu as le choix entre 3 Bières.",
           "display": true
         },
@@ -65,6 +65,49 @@
           "name": "Le Coup de Grisou 'Bush de Noël' ",
           "price": "9,00€",
           "description": "Première 'Flambée' individuelle, tu as le choix entre 3 Bières.",
+          "display": true
+        }
+      ]
+    },
+    {
+      "CategoryTitle": "Carte d'Hiver'",
+      "CategoryDesc": " ",
+      "display": true,
+      "CategoryContent": [
+        {
+          "name": "Chocolat chaud Maison",
+          "price": "3,50€",
+          "description": "",
+          "display": true
+        },
+        {
+          "name": "Jus de Pomme",
+          "price": "3,00€",
+          "description": "",
+          "display": true
+        },
+        {
+          "name": "Hydromel Chaud",
+          "price": "6,00€",
+          "description": "",
+          "display": true
+        },
+        {
+          "name": "Hypocras Chaud",
+          "price": "5,00€",
+          "description": "",
+          "display": true
+        }
+        {
+          "name": "Jack O'Lantern",
+          "price": "3,30€",
+          "description": "Jus de Pumpkin, Jus de Pomme, Cannelle",
+          "display": true
+        },
+        {
+          "name": "Jack The Ripper",
+          "price": "8,00€",
+          "description": "Jus de Pumpkin, Jus de Pomme, Rhum brun, 43, Cannelle",
           "display": true
         }
       ]
