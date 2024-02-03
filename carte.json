@@ -404,7 +404,7 @@
     {
       "CategoryTitle": "Cocktails de Café",
       "CategoryDesc": "Ici vous retrouverez les Irish et tous leurs dérivés",
-      "display": false,
+      "display": true,
       "CategoryContent": [
         {
           "name": "Irish Coffee",
