@@ -956,7 +956,7 @@
       "CategoryContent": [
         {
           "name": "Barbar",
-          "price": "4,50€",
+          "price": "5,00€",
           "description": "",
           "display": true
         },
@@ -986,7 +986,7 @@
         },
         {
           "name": "Delirium",
-          "price": "5,00€",
+          "price": "5,50€",
           "description": "",
           "display": true
         },
@@ -1028,13 +1028,13 @@
         },
         {
           "name": "Rasta Troll",
-          "price": "5,00€",
+          "price": "6,00€",
           "description": "",
           "display": true
         },
         {
           "name": "St-Feuillien Blonde",
-          "price": "5,00€",
+          "price": "5,50€",
           "description": "",
           "display": true
         },
@@ -1088,7 +1088,7 @@
         },
         {
           "name": "Super des Fagnes 'Cuvée Constant' ",
-          "price": "5,00€",
+          "price": "5,50€",
           "description": "",
           "display": true
         },
@@ -1112,7 +1112,7 @@
         },
         {
           "name": "Imperatrice",
-          "price": "5,50€",
+          "price": "6,00€",
           "description": "",
           "display": true
         },
@@ -1124,7 +1124,7 @@
         },
         {
           "name": "Goliath 6",
-          "price": "4,50€",
+          "price": "5,00€",
           "description": "",
           "display": true
         },
@@ -1136,7 +1136,7 @@
         },
         {
           "name": "Duchesse de Bourgogne",
-          "price": "4,00€",
+          "price": "4,50€",
           "description": "",
           "display": true
         },
@@ -1189,7 +1189,25 @@
           "display": true
         },
         {
-          "name": "Kwak",
+          "name": "Trinité",
+          "price": "5,00€",
+          "description": "",
+          "display": true
+        },
+        {
+          "name": "Geuze BOON",
+          "price": "4,00€",
+          "description": "",
+          "display": true
+        },
+        {
+          "name": "Diole",
+          "price": "4,50€",
+          "description": "",
+          "display": true
+        },
+        {
+          "name": "Goliath",
           "price": "5,00€",
           "description": "",
           "display": true
