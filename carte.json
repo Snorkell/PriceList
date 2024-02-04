@@ -507,25 +507,25 @@
       "CategoryContent": [
         {
           "name": "Eristoff Rouge",
-          "price": "5,50€",
+          "price": "6,00€",
           "description": "+ Soft : 0,50€ + Red-Bull : 1,00€.",
           "display": true
         },
         {
           "name": "Eristoff Blanche",
-          "price": "5,50€",
+          "price": "6,00€",
           "description": "+ Soft : 0,50€ + Red-Bull : 1,00€.",
           "display": true
         },
         {
           "name": "Bacardi Carta Blanca",
-          "price": "5,50€",
+          "price": "6,00€",
           "description": "+ Soft : 0,50€ + Red-Bull : 1,00€.",
           "display": true
         },
         {
           "name": "Bacardi Carta Ora",
-          "price": "5,50€",
+          "price": "6,00€",
           "description": "+ Soft : 0,50€ + Red-Bull : 1,00€.",
           "display": true
         }
@@ -538,7 +538,7 @@
       "CategoryContent": [
         {
           "name": "Get 27",
-          "price": "4,00€",
+          "price": "4,50€",
           "description": "",
           "display": true
         },
@@ -577,17 +577,17 @@
           "name": "Cognac Prunier",
           "price": "5,50€",
           "description": "",
-          "display": true
+          "display": false
         },
         {
           "name": "Calvados du Pays d'Auge",
           "price": "5,50€",
           "description": "",
-          "display": true
+          "display": false
         },
         {
           "name": "Cointreau",
-          "price": "5,50€",
+          "price": "6,00€",
           "description": "",
           "display": true
         },
@@ -631,19 +631,19 @@
       "CategoryContent": [
         {
           "name": "William Lawson's",
-          "price": "5,50€",
+          "price": "6,00€",
           "description": "",
           "display": true
         },
         {
           "name": "Jack Daniel's",
-          "price": "6,00€",
+          "price": "7,50€",
           "description": "Etats-Unis",
           "display": true
         },
         {
           "name": "Jack Daniel's Honey",
-          "price": "6,00€",
+          "price": "7,50€",
           "description": "Etats-Unis",
           "display": true
         },
@@ -655,13 +655,13 @@
         },
         {
           "name": "Oban 14 ans",
-          "price": "10,00€",
+          "price": "12,50€",
           "description": "Ecosse",
           "display": true
         },
         {
           "name": "Talisker",
-          "price": "8,00€",
+          "price": "10,00€",
           "description": "Ecosse",
           "display": true
         },
@@ -692,7 +692,7 @@
       "CategoryContent": [
         {
           "name": "Bombay Dry",
-          "price": "5,50€",
+          "price": "6,00€",
           "description": "",
           "display": true
         },
@@ -1100,7 +1100,7 @@
         },
         {
           "name": "Triple d'Anvers",
-          "price": "4,50€",
+          "price": "5,00€",
           "description": "",
           "display": true
         },
@@ -1118,7 +1118,7 @@
         },
         {
           "name": "Filou",
-          "price": "4,50€",
+          "price": "5,00€",
           "description": "",
           "display": true
         },
